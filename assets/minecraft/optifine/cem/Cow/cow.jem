@@ -1,0 +1,50 @@
+{
+  "texture": "optifine/cem/cow/cow.png",
+  "textureSize": [128, 128],
+  "models": 
+  [
+    {
+      "id": "Head",
+      "model": "headcow.jpm",
+      "part": "head", 
+      "translate": [8, 10, -15],
+      "rotate": [0, 0, 0],
+	  "scale": "1"
+    },
+	{
+      "id": "Body",
+      "model": "bodycow.jpm",
+      "part": "body", 
+      "translate": [8, -9.8, -10],
+      "rotate": [-90, 0, 0]
+    },
+	{
+      "id": "Leg",
+      "model": "legscow.jpm",
+      "part": "leg1", 
+      "translate": [8.5, 12, -8],
+      "rotate": [0, 0, 0]
+    },
+	{
+      "id": "Leg",
+      "model": "legscow.jpm",
+      "part": "leg2", 
+      "translate": [7.5, 12, -8],
+      "rotate": [0, 0, 0]
+    },
+	{
+      "id": "Leg",
+      "model": "legscow.jpm",
+      "part": "leg3", 
+      "translate": [8.5, 12, -8],
+      "rotate": [0, 0, 0]
+    },
+	{
+      "id": "Leg",
+      "model": "legscow.jpm",
+      "part": "leg4", 
+      "translate": [7.5, 12, -8],
+      "rotate": [0, 0, 0]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+    "targets": [
+        "colorAjusted",
+        "bloomed",
+        "highlights",
+        "swap4",
+        "swap5",
+        "swap6",
+        "swap7",
+        "pswap",
+        "pprevious"
+    ],
+    "passes": [
+        {
+            "name": "phosphor",
+            "intarget": "minecraft:main",
+            "outtarget": "pswap",
+            "auxtargets": [
+                {
+                    "name": "PrevSampler",
+                    "id": "pprevious"
+                }
+            ]
+        },
+        {
+            "name": "blit",
+            "intarget": "pswap",
+            "outtarget": "pprevious"
+        },
+
+        {
+            "name": "willpackColor",
+            "intarget": "minecraft:main",
+            "outtarget": "colorAjusted",
+            "auxtargets": [
+                {
+                    "name": "MBSampler",
+                    "id": "pswap"
+                }
+            ]
+        },
+        {
+            "name": "willpackDarken",
+            "intarget": "minecraft:main",
+            "outtarget": "highlights",
+            "auxtargets": [
+                {
+                    "name": "MBSampler",
+                    "id": "pswap"
+                }
+            ]
+        },
+        {
+            "name": "blur",
+            "intarget": "highlights","outtarget": "swap4",
+            "uniforms": [
+                {"name": "BlurDir", "values": [ 8.0, 0.0 ]},
+                {"name": "Radius", "values": [ 2.0 ]}
+            ]
+        },
+        {
+            "name": "blur",
+            "intarget": "swap4","outtarget": "swap5",
+            "uniforms": [
+                {"name": "BlurDir", "values": [ 0.0, 8.0 ]},
+                {"name": "Radius", "values": [ 2.0 ]}
+            ]
+        },
+        {
+            "name": "blur",
+            "intarget": "swap5","outtarget": "swap6",
+            "uniforms": [
+                {"name": "BlurDir", "values": [ 2.0, 2.0 ]},
+                {"name": "Radius", "values": [ 2.0 ]}
+            ]
+        },
+        {
+            "name": "blur",
+            "intarget": "swap6","outtarget": "swap7",
+            "uniforms": [
+                {"name": "BlurDir", "values": [ -2.0, 2.0 ]},
+                {"name": "Radius", "values": [ 2.0 ]}
+            ]
+        },
+        {
+            "name": "willpackBloom",
+            "intarget": "colorAjusted",
+            "outtarget": "bloomed",
+            "auxtargets": [
+                {
+                    "name": "DarkBlurSampler",
+                    "id": "swap7"
+                }
+            ]
+        },
+        {
+            "name": "fxaa",
+            "intarget": "bloomed",
+            "outtarget": "minecraft:main"
+        }
+    ]
+}

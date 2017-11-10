@@ -1,0 +1,46 @@
+{
+  "comment": "Model by Monsterfish_",
+   "texture": "optifine/cem/llama.png",
+  "textureSize": [128,128],
+  "shadowSize": 0.3,
+  "models": 
+  [
+    {
+      "model": "llama_head.jpm",
+      "part": "head", 
+      "translate": [-3.7, 8, -3],
+      "rotate": [0, 0, 0]
+    },
+	{
+      "model": "llama_body.jpm",
+      "part": "body", 
+      "translate": [8, -9.8, -18],
+      "rotate": [-90, 0, 0]
+    },
+	{
+      "model": "llama_leg_hr.jpm",
+      "part": "leg1", 
+      "translate": [11, 14, -15],
+      "rotate": [0, 0, 0]
+    },
+	{
+      "model": "llama_leg_hl.jpm",
+      "part": "leg2", 
+      "translate": [ 5, 14, -15],
+      "rotate": [0, 0, 0]
+    },
+	{
+      "model": "llama_leg_fr.jpm",
+      "part": "leg3", 
+      "translate": [3.7, 14, -2.5],
+      "rotate": [0, 0, 0]
+    },
+	{
+      "model": "llama_leg_fl.jpm",
+      "part": "leg4", 
+      "translate": [12.3, 14, -2.5],
+      "rotate": [0, 0, 0]
+    }
+	
+  ]
+}

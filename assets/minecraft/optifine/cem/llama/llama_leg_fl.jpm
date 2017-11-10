@@ -1,0 +1,38 @@
+{
+  "comment": "Designed by Monsterfish_ with Cubik Studio - https://cubik.studio",
+  "createdWith": "Cubik Studio 2.0.284 Beta",
+  "textureSize": [512,512],
+  "texture": "llama",
+  "submodels": [
+    {
+      "id": "Cube2",
+      "translate": [-9.75,-7.90625,-1.3125],
+      "boxes": [
+        {
+          "coordinates": [-3.6875,-6.53125,0.0,3.6875,6.53125,3.6875],
+          "uvDown": [205,368,206,369],
+          "uvUp": [292,368,293,369],
+          "uvNorth": [170,418,171,419],
+          "uvSouth": [154,418,155,419],
+          "uvWest": [138,418,139,419],
+          "uvEast": [164,418,165,419]
+        }
+      ]
+    },
+    {
+      "id": "Cube2",
+      "translate": [-10.03125,-0.03125,-1.375],
+      "boxes": [
+        {
+          "coordinates": [-3.03125,-8.96875,0.0,3.03125,8.96875,3.5],
+          "uvDown": [205,368,206,369],
+          "uvUp": [292,368,293,369],
+          "uvNorth": [150,444,151,445],
+          "uvSouth": [159,444,180,445],
+          "uvWest": [168,444,169,445],
+          "uvEast": [138,444,139,445]
+        }
+      ]
+    }
+  ]
+}

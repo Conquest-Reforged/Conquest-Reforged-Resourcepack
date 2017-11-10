@@ -1,0 +1,195 @@
+{
+  "wolves": {
+    "sounds": [
+         "extra/wolf"            
+    ]
+  },
+  
+  "wind": {
+    "sounds": [
+       "extra/wind"
+    ]
+  },
+  
+   "waterfall": {
+    "sounds": [
+         "extra/waterfall"
+    ]
+  },
+  
+   "tavern": {
+    "sounds": [
+      "extra/tavern"
+    ]
+  },
+  
+   "seagulls": {
+    "sounds": [
+    "extra/seagulls"
+    ]
+  },
+  
+   "rainforest": {
+    "sounds": [
+     "extra/rainforest"
+    ]
+  },
+  
+   "ocean": {
+    "sounds": [
+       "extra/ocean"
+    ]
+  },
+  
+   "market": {
+      "sounds": [
+      "extra/market"
+    ]
+  },
+  
+   "forest": {
+    "sounds": [
+      "extra/forest"
+    ]
+  },
+  
+   "crickets": {
+    "sounds": [
+      "extra/crickets"
+    ]
+  },
+  
+   "bells": {
+    "sounds": [
+       "extra/bells"
+    ]
+  },
+  
+   "stream": {
+    "sounds": [
+       "extra/stream"
+    ]
+  },
+  
+   "smallwaterfall": {
+    "sounds": [
+       "extra/smallwaterfall"
+    ]
+  },
+  
+   "city": {
+    "sounds": [
+       "extra/city"
+    ]
+  },
+  
+   "harbor": {
+    "sounds": [
+       "extra/harbor"
+    ]
+  },
+  
+   "village": {
+    "sounds": [
+       "extra/village"
+    ]
+  },
+  
+   "hall": {
+    "sounds": [
+       "extra/hall"
+    ]
+  },
+  
+   "bees": {
+    "sounds": [
+       "extra/bees"
+    ]
+  },
+  
+   "cannon": {
+    "sounds": [
+       "extra/cannon"
+    ]
+  },
+  
+   "dripping": {
+    "sounds": [
+       "extra/dripping"
+    ]
+  },
+  
+   "goats": {
+    "sounds": [
+       "extra/goats"
+    ]
+  },
+  
+   "windchimes": {
+    "sounds": [
+       "extra/windchimes"
+    ]
+
+  },
+  
+   "raven": {
+    "sounds": [
+       "extra/raven"
+    ]
+  },
+  
+   "battle": {
+    "sounds": [
+       "extra/battle"
+    ]
+  },
+  
+   "chains": {
+    "sounds": [
+       "extra/chains"
+    ]
+  },
+  
+   "torture": {
+    "sounds": [
+       "extra/torture"
+    ]
+  },
+  
+   "gong": {
+    "sounds": [
+       "extra/gong"
+    ]
+  },
+  
+   "frogs": {
+    "sounds": [
+       "extra/frogs"
+    ]
+  },
+  
+   "ducks": {
+    "sounds": [
+       "extra/ducks"
+    ]
+  },
+  
+   "boilingwater": {
+    "sounds": [
+       "extra/boilingwater"
+    ]
+  },
+  
+   "bats": {
+    "sounds": [
+       "extra/bats"
+    ]
+  },
+  
+   "chop": {
+    "sounds": [
+       "extra/chop"
+    ]
+  }
+
+}

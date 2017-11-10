@@ -1,0 +1,41 @@
+Conquest installation instructions
+
+!!Make sure to download the correct Pack for your Minecraft version to avoid compatibility issues!!
+
+
+1.
+________________________________________________________________________________________________________________
+
+In order to use this pack properly you need to either use the  Optifinemod to get the full pack experience.
+
+
+Download for the patcher:
+
+Optifine
+optifine.net
+
+
+When using optifine  make sure that connected textures is enabled in the videosettings (options/videosettings/Quality)
+
+
+2.
+________________________________________________________________________________________________________________
+
+Now go into your game open the Resourcepackselectionscreen and click on open resourcepackfolder and drag conquest.zip there.
+Alternatly you can click on "Windows Start" > Run (or search) and type: %appdata%/.minecraft/texturepacks
+
+
+3.
+________________________________________________________________________________________________________________
+
+
+Now select Conquest in the resourcepackmenu and move it to selectde packs hit done and wait for the game to load the textures
+
+
+4.
+________________________________________________________________________________________________________________
+
+Enjoy the pack ;)
+
+
+Monster_

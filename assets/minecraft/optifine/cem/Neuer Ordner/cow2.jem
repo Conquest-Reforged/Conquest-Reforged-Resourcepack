@@ -1,0 +1,15 @@
+{
+  "comment": "Model by Monsterfish_",
+   "texture": "optifine/cem/llama.png",
+  "textureSize": [128,128],
+  "shadowSize": 0.3,
+  "models": 
+  [
+    {
+      "model": "llama_head.jpm",
+      "part": "head", 
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    }
+  ]
+}
