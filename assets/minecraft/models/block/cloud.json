@@ -1,0 +1,18 @@
+{
+    "parent": "block/cluud",
+    "elements": [
+
+        {   "shade":true,
+            "from": [ 0, 0, 0 ],
+            "to": [ 16, 16, 16 ],
+            "faces": {
+                "down":  { "uv": [ 0, 16, 16, 0 ], "texture": "#down"},
+                "up":    { "texture": "#up"},
+                "north": { "texture": "#north"},
+                "south": { "texture": "#south" },
+                "west":  { "texture": "#west"  },
+                "east":  { "texture": "#east" }
+            }
+        }
+    ]
+}
