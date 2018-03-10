@@ -1,0 +1,141 @@
+{
+	"__comment": "Designed by Snoku bot with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"particle": "1 (2)",
+		"texture": "1 (2)"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Cube1",
+			"from": [ 18, 0, -14 ],
+			"to": [ 18.001, 27, 18 ],
+			"rotation": { "origin": [ 18, 0, 18 ], "axis": "y", "angle": 45 },
+			"faces": {
+				"west": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
+				"east": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
+			}
+		},
+		{
+			"__comment": "Cube1",
+			"from": [ -7.5, 0, 7 ],
+			"to": [ 24.5, 18, 7.001 ],
+			"rotation": { "origin": [ -7.5, 0, 7 ], "axis": "x", "angle": 45 },
+			"faces": {
+				"north": { "uv": [ 0, 9.5, 16, 0 ], "texture": "#texture" },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
+			}
+		},
+		{
+			"__comment": "Cube1",
+			"from": [ 7, 0, -8.3011 ],
+			"to": [ 7.001, 18, 23.50001 ],
+			"rotation": { "origin": [ 7, 0, 23.5 ], "axis": "z", "angle": 45 },
+			"faces": {
+				"west": { "uv": [ 0, 0, 16, 11 ], "texture": "#texture" },
+				"east": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
+			}
+		},
+		{
+			"__comment": "Cube1",
+			"from": [ -4, 0, 18.5 ],
+			"to": [ 28, 27, 18.501 ],
+			"rotation": { "origin": [ -4, 0, 18.5 ], "axis": "y", "angle": 45 },
+			"faces": {
+				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
+			}
+		},
+		{
+			"__comment": "Cube1",
+			"from": [ 7.5, 0, -7.8011 ],
+			"to": [ 7.501, 18, 24.00001 ],
+			"rotation": { "origin": [ 7.5, 0, 24 ], "axis": "z", "angle": -45 },
+			"faces": {
+				"west": { "uv": [ 0, 0, 16, 9.5 ], "texture": "#texture" },
+				"east": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
+			}
+		},
+		{
+			"__comment": "Cube1",
+			"from": [ -7.5, 0, 7 ],
+			"to": [ 24.5, 18, 7.001 ],
+			"rotation": { "origin": [ -7.5, 0, 7 ], "axis": "x", "angle": -45 },
+			"faces": {
+				"north": { "uv": [ 0, 0, 16, 11 ], "texture": "#texture" },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
+			}
+		},
+		{
+			"__comment": "Cube1",
+			"from": [ 7.5, 0, -8 ],
+			"to": [ 7.501, 27, 24 ],
+			"rotation": { "origin": [ 7.5, 0, 24 ], "axis": "z", "angle": -22.5 },
+			"faces": {
+				"west": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
+				"east": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
+			}
+		},
+		{
+			"__comment": "Cube1",
+			"from": [ 7, 0, -8.5 ],
+			"to": [ 7.001, 27, 23.5 ],
+			"rotation": { "origin": [ 7, 0, 23.5 ], "axis": "z", "angle": 22.5 },
+			"faces": {
+				"west": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
+				"east": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
+			}
+		},
+		{
+			"__comment": "Cube1",
+			"from": [ -7.5, 0, 7 ],
+			"to": [ 24.5, 27, 7.001 ],
+			"rotation": { "origin": [ -7.5, 0, 7 ], "axis": "x", "angle": 22.5 },
+			"faces": {
+				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
+			}
+		},
+		{
+			"__comment": "Cube1",
+			"from": [ -7.5, 0, 7 ],
+			"to": [ 24.5, 27, 7.001 ],
+			"rotation": { "origin": [ -7.5, 0, 7 ], "axis": "x", "angle": -22.5 },
+			"faces": {
+				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation":  [ 75, 45, 0 ],
+			"translation":  [ 0, 2.5, 0 ],
+			"scale":  [ 0.375, 0.375, 0.375 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation":  [ 75, 45, 0 ],
+			"translation":  [ 0, 2.5, 0 ],
+			"scale":  [ 0.375, 0.375, 0.375 ]
+		},
+		"firstperson_righthand": {
+			"rotation":  [ 0, 45, 0 ],
+			"scale":  [ 0.4, 0.4, 0.4 ]
+		},
+		"firstperson_lefthand": {
+			"rotation":  [ 0, 45, 0 ],
+			"scale":  [ 0.4, 0.4, 0.4 ]
+		},
+		"gui": {
+			"rotation":  [ 30, 225, 0 ],
+			"translation":  [ 0, -2.086, 0 ],
+			"scale":  [ 0.3, 0.3, 0.3 ]
+		},
+		"ground": {
+			"translation":  [ 0, 3, 0 ],
+			"scale":  [ 0.25, 0.25, 0.25 ]
+		},
+		"fixed": {
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		}
+	}
+}
