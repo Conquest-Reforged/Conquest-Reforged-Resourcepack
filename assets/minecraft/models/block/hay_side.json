@@ -1,0 +1,109 @@
+{
+"__comment":"3D Mesh designed with BDcraft Cubik - Version LITE 0.71 Beta",
+"parent": "block/block",
+"ambientocclusion":true,
+"textures": {
+  "particle": "block/hay_block_side",
+  "up": "block/hay_block_side",
+  "down": "block/hay_block_side",
+  "east": "block/hay_block_side",
+  "west": "block/hay_block_side",
+	"north": "block/hay_block_side",
+  "south": "block/hay_block_side",
+	"top": "block/hay_block_top",
+  "bottom": "block/hay_block_top"
+},
+"elements":[
+{
+"from":[0,0,0],
+"to":[16,16,16],
+"faces":{
+"down":{ "uv":[0,16,16,0],"texture":"#down" },
+"up":{ "uv":[0,0,16,16],"texture":"#up" },
+"north":{ "uv":[16,0,0,16],"texture":"#top" },
+"south":{ "uv":[0,0,16,16],"texture":"#top" },
+"west":{ "uv":[0,0,16,16],"rotation": 90,"texture":"#west" },
+"east":{ "uv":[16,0,0,16],"rotation": 90,"texture":"#east" }}},
+
+
+{
+"from":[0.001,-0.5,11.5],
+"to":[15.999,0,12.5],
+"faces":{
+"down":{ "uv":[0,12.5,16,11.5],"texture":"#down" },
+"up":{ "uv":[0,11.5,16,12.5],"texture":"#up" },
+"north":{ "uv":[0,11.5,16,12],"texture":"#north" },
+"south":{ "uv":[0,12,16,12.5],"texture":"#south" },
+"west":{ "uv":[15,11.5,16,12],"texture":"#west" },
+"east":{ "uv":[15,11.5,16,12],"texture":"#east" }}},
+{
+"from":[0.001,-0.5,3.5],
+"to":[15.999,0,4.5],"faces":{
+"down":{ "uv":[0,4.5,16,3.5],"texture":"#down" },
+"up":{ "uv":[0,3.5,16,4.5],"texture":"#up" },
+"north":{ "uv":[0,3.5,16,4],"texture":"#north" },
+"south":{ "uv":[0,4,16,4.5],"texture":"#south" },
+"west":{ "uv":[15,3.5,16,4],"texture":"#west" },
+"east":{ "uv":[15,3.5,16,4],"texture":"#east" }}},
+{
+"from":[0.001,16,11.5],
+"to":[15.999,16.5,12.5],
+"faces":{
+"down":{ "uv":[0,11.5,16,12.5],"texture":"#down" },
+"up":{ "uv":[0,11.5,16,12.5],"texture":"#up" },
+"north":{ "uv":[16,11.5,0,12],"texture":"#north" },
+"south":{ "uv":[0,12,16,12.5],"texture":"#south" },
+"west":{ "uv":[15,11.5,16,12],"texture":"#west" },
+"east":{ "uv":[16,11.5,15,12],"texture":"#east" }}},
+{
+"from":[0.001,16,3.5],
+"to":[15.999,16.5,4.5],
+"faces":{
+"down":{ "uv":[0,3.5,16,4.5],"texture":"#down" },
+"up":{ "uv":[0,3.5,16,4.5],"texture":"#up" },
+"north":{ "uv":[0,3.5,16,4],"texture":"#north" },
+"south":{ "uv":[0,4,16,4.5],"texture":"#south" },
+"west":{ "uv":[15,3.5,16,4],"texture":"#west" },
+"east":{ "uv":[15,3.5,16,4],"texture":"#east" }}},
+
+
+{
+"from":[16,0.001,11.5],
+"to":[16.5,15.999,12.5],
+"faces":{
+"down":{ "uv":[15.5,12.5,16,11.5],"texture":"#down" },
+"up":{ "uv":[15.5,11.5,16,12.5],"texture":"#up" },
+"north":{ "uv":[0,11.5,16,12],"rotation": 90,"texture":"#north" },
+"south":{ "uv":[0,12,16,12.5],"rotation": 90,"texture":"#south" },
+"west":{ "uv":[0,11.5,16,12.5],"rotation": 90,"texture":"#west" },
+"east":{ "uv":[0,11.5,16,12.5],"rotation": 90,"texture":"#east" }}},
+{
+"from":[-0.5,0.001,3.5],
+"to":[0,15.999,4.5],
+"faces":{
+"down":{ "uv":[0,4.5,0.5,3.5],"texture":"#down" },
+"up":{ "uv":[0,3.5,0.5,4.5],"texture":"#up" },
+"north":{ "uv":[0,3.5,16,4],"rotation": 90,"texture":"#north" },
+"south":{ "uv":[0,4,16,4.5],"rotation": 90,"texture":"#south" },
+"west":{ "uv":[0,4.5,16,3.5],"rotation": 90,"texture":"#west" },
+"east":{ "uv":[0,4.5,16,3.5],"rotation": 90,"texture":"#east" }}},
+{
+"from":[-0.5,0.001,11.5],
+"to":[0,15.999,12.5],
+"faces":{
+"down":{ "uv":[0,12.5,0.5,11.5],"texture":"#down" },
+"up":{ "uv":[0,11.5,0.5,12.5],"texture":"#up" },
+"north":{ "uv":[0,11.5,16,12],"rotation": 90,"texture":"#north" },
+"south":{ "uv":[0,12,16,12.5],"rotation": 90,"texture":"#south" },
+"west":{ "uv":[0,12.5,16,11.5],"rotation": 90,"texture":"#west" },
+"east":{ "uv":[0,12.5,16,11.5],"rotation": 90,"texture":"#east" }}},
+{
+"from":[16,0.001,3.5],
+"to":[16.5,15.999,4.5],
+"faces":{
+"down":{ "uv":[15.5,4.5,16,3.5],"texture":"#down" },
+"up":{ "uv":[15.5,3.5,16,4.5],"texture":"#up" },
+"north":{ "uv":[0,3.5,16,4],"rotation": 90,"texture":"#north" },
+"south":{ "uv":[0,3.5,16,4],"rotation": 90,"texture":"#south" },
+"west":{ "uv":[0,3.5,16,4.5],"rotation": 90,"texture":"#west" },
+"east":{ "uv":[0,3.5,16,4.5],"rotation": 90,"texture":"#east" }}}]}

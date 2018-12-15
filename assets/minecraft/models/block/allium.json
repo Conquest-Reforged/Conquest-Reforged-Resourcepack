@@ -1,0 +1,48 @@
+{
+	"__comment": "Designed by Monsterfish_ with Cubik Studio - https://cubik.studio",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "block/allium",
+		"cross": "block/allium"
+	},
+	"elements": [ 	 
+		{
+			"from": [ 0.8, 0, 8 ],
+			"to": [ 15.2, 16, 8.001 ],
+			"rotation": { "origin": [ 8, 8, 8 ], "axis": "y", "angle": 45, "rescale": true },
+			"shade": false,
+			"faces": {
+				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#cross" },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#cross" }
+			}
+		},
+		{
+			"from": [ 8, 0, 0.8 ],
+			"to": [ 8.001, 16, 15.2 ],
+			"rotation": { "origin": [ 8, 8, 8 ], "axis": "y", "angle": 45, "rescale": true },
+			"shade": false,
+			"faces": {
+				"west": { "uv": [ 0, 0, 16, 16 ], "texture": "#cross" },
+				"east": { "uv": [ 0, 0, 16, 16 ], "texture": "#cross" }
+			}
+		},
+		{
+			"__comment": "PlaneY3",
+			"from": [ -0.875, 11.125, 8.625 ],
+			"to": [ 15.125, 11.126, 13.125 ],
+			"faces": {
+				"down": { "uv": [ 0, 5, 16, 0 ], "texture": "#cross", "rotation": 180 },
+				"up": { "uv": [ 0, 0, 16, 5 ], "texture": "#cross", "rotation": 180 }
+			}
+		},
+		{
+			"__comment": "PlaneY3",
+			"from": [ 0.625, 11.125, 4.125 ],
+			"to": [ 16.625, 11.126, 8.625 ],
+			"faces": {
+				"down": { "uv": [ 0, 5, 16, 0 ], "texture": "#cross" },
+				"up": { "uv": [ 0, 0, 16, 5 ], "texture": "#cross" }
+			}
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+"textures": {
+  "particle": "block/birchfence",
+  "texture": "block/birchfence"
+},
+"elements": [ 
+{
+  "__comment": "Center post",
+  "from": [ 6, 0, 6 ],
+  "to": [ 10, 16, 10 ],
+  "faces": {
+    "down": { "uv": [ 6.001, 6.001, 9.999, 9.999 ], "texture": "#texture", "cullface": "down" },
+    "up":  { "uv": [ 6.001, 6.001, 9.999, 9.999 ], "texture": "#texture", "cullface": "up" },
+    "north": { "uv": [ 6.001, 0.001, 9.999, 15.999 ], "texture": "#texture" },
+    "south": { "uv": [ 6.001, 0.001, 9.999, 15.999 ], "texture": "#texture" },
+    "west": { "uv": [ 6.001, 0.001, 9.999, 15.999 ], "texture": "#texture" },
+    "east": { "uv": [ 6.001, 0.001, 9.999, 15.999 ], "texture": "#texture" }
+  }
+}
+]
+}

@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "": [
+      { "model": "block/netherrack" },
+     
+      { "model": "block/netherrack", "x": 180 },
+      
+      { "model": "block/netherrack", "y": 180 }
+      
+    ]
+  }
+}

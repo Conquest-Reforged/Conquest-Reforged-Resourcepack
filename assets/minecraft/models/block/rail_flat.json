@@ -1,0 +1,55 @@
+{
+	"__comment": "Conquest Reforged",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "#rail",
+		"rail": "#rail",
+		"planks": "block/rail_plank_1"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Element",
+			"from": [ 0, 0.125, 0 ],
+			"to": [ 16, 0.126, 16 ],
+			"faces": {
+				"down": { "uv": [ 0, 16, 16, 0 ], "texture": "#planks" },
+				"up": { "uv": [ 0, 0, 16, 16 ], "texture": "#planks" }
+			}
+		},
+		{
+			"__comment": "Box2",
+			"from": [ 11, 0, 0 ],
+			"to": [ 13, 2, 16 ],
+			"faces": {
+				"down": { "uv": [ 3, 0, 5.5, 16 ], "texture": "#rail" },
+				"up": { "uv": [ 3, 0, 5.5, 16 ], "texture": "#rail" },
+				"north": { "uv": [ 3, 13.5, 5.5, 16 ], "texture": "#rail" },
+				"south": { "uv": [ 3, 13.5, 5.5, 16 ], "texture": "#rail" },
+				"west": { "uv": [ 3, 0, 5.5, 16 ], "texture": "#rail", "rotation": 90 },
+				"east": { "uv": [ 3, 0, 5.5, 16 ], "texture": "#rail", "rotation": 90 }
+			}
+		},
+		{
+			"__comment": "Box2",
+			"from": [ 3, 0, 0 ],
+			"to": [ 5, 2, 16 ],
+			"faces": {
+				"down": { "uv": [ 3, 0, 5.5, 16 ], "texture": "#rail" },
+				"up": { "uv": [ 3, 0, 5.5, 16 ], "texture": "#rail" },
+				"north": { "uv": [ 3, 13.5, 5.5, 16 ], "texture": "#rail" },
+				"south": { "uv": [ 3, 13.5, 5.5, 16 ], "texture": "#rail" },
+				"west": { "uv": [ 3, 0, 5.5, 16 ], "texture": "#rail", "rotation": 90 },
+				"east": { "uv": [ 3, 0, 5.5, 16 ], "texture": "#rail", "rotation": 90 }
+			}
+		},
+		{
+			"__comment": "Element",
+			"from": [ 0, 0.5, 0 ],
+			"to": [ 16, 0.501, 16 ],
+			"faces": {
+				"down": { "uv": [ 0, 16, 16, 0 ], "texture": "#rail" },
+				"up": { "uv": [ 0, 0, 16, 16 ], "texture": "#rail" }
+			}
+		}
+	]
+}

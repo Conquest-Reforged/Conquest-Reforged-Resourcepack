@@ -1,0 +1,71 @@
+{
+	"__comment": "Designed by Monsterfish_ with Cubik Studio - https://cubik.studio",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "block/dandelion",
+		"cross": "block/dandelion",
+		"1": "block/flower_base"
+	},
+	"elements": [
+		{
+			"from": [ 2.375, 0, 13.6198 ],
+			"to": [ 18.375, 16, 13.6823 ],
+			"rotation": { "origin": [ 2.375, 0, 13.6198 ], "axis": "y", "angle": 45, "rescale": true },
+			"shade": false,
+			"faces": {
+				"north": { "uv": [ 0, 0, 13.625, 16 ], "texture": "#cross" },
+				"south": { "uv": [ 2.375, 0, 16, 16 ], "texture": "#cross" }
+			}
+		},
+		{
+			"from": [ 2.5, 0, 2.5 ],
+			"to": [ 2.5625, 16, 18.5 ],
+			"rotation": { "origin": [ 2.5, 0, 2.5 ], "axis": "y", "angle": 45, "rescale": true },
+			"shade": false,
+			"faces": {
+				"west": { "uv": [ 2.5, 0, 16, 16 ], "texture": "#cross" },
+				"east": { "uv": [ 0, 0, 13.5, 16 ], "texture": "#cross" }
+			}
+		},
+		{
+			"__comment": "east",
+			"from": [ 8, -0.0625, 1 ],
+			"to": [ 17, 0, 15 ],
+			"rotation": { "origin": [ 8, 0, 1 ], "axis": "z", "angle": 22.5 },
+			"faces": {
+				"down": { "uv": [ 16, 14, 0, 6 ], "texture": "#1", "rotation": 270 },
+				"up": { "uv": [ 0, 6, 16, 14 ], "texture": "#1", "rotation": 90 }
+			}
+		},
+		{
+			"__comment": "west",
+			"from": [ -0.3125, 3.375, 1 ],
+			"to": [ 8.6875, 3.4375, 15 ],
+			"rotation": { "origin": [ -0.3125, 3.4375, 1 ], "axis": "z", "angle": -22.5 },
+			"faces": {
+				"down": { "uv": [ 1, 6, 15, 14.5 ], "texture": "#1", "rotation": 270 },
+				"up": { "uv": [ 1, 6, 15, 14.5 ], "texture": "#1", "rotation": 270 }
+			}
+		},
+		{
+			"__comment": "south",
+			"from": [ 0, -0.0625, 8 ],
+			"to": [ 16, 0, 16.5 ],
+			"rotation": { "origin": [ 0, 0, 8 ], "axis": "x", "angle": -22.5 },
+			"faces": {
+				"down": { "uv": [ 16, 14, 0, 6 ], "texture": "#1", "rotation": 180 },
+				"up": { "uv": [ 0, 6, 16, 14 ], "texture": "#1", "rotation": 180 }
+			}
+		},
+		{
+			"__comment": "north",
+			"from": [ 0, 3.1875, 0.25 ],
+			"to": [ 16, 3.25, 8.75 ],
+			"rotation": { "origin": [ 0, 3.25, 0.25 ], "axis": "x", "angle": 22.5 },
+			"faces": {
+				"down": { "uv": [ 16, 14, 0, 6 ], "texture": "#1" },
+				"up": { "uv": [ 0, 6, 16, 14 ], "texture": "#1" }
+			}
+		}
+	]
+}

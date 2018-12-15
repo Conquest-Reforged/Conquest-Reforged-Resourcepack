@@ -1,0 +1,40 @@
+{
+	"__comment": "Designed by Monsterfish_ with Cubik Studio - https://cubik.studio",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "block/brown_mushroom",
+		"cross": "block/brown_mushroom",
+		"1": "block/mushroom_base"
+	},
+	"elements": [
+		{
+			"from": [ 2.375, 0, 13.6198 ],
+			"to": [ 18.375, 16, 13.6823 ],
+			"rotation": { "origin": [ 2.375, 0, 13.6198 ], "axis": "y", "angle": 45, "rescale": true },
+			"shade": false,
+			"faces": {
+				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#cross" },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#cross" }
+			}
+		},
+		{
+			"from": [ 2.5, 0, 2.5 ],
+			"to": [ 2.5625, 16, 18.5 ],
+			"rotation": { "origin": [ 2.5, 0, 2.5 ], "axis": "y", "angle": 45, "rescale": true },
+			"shade": false,
+			"faces": {
+				"west": { "uv": [ 1, 0, 14.625, 16 ], "texture": "#cross" },
+				"east": { "uv": [ 1, 0, 14.625, 16 ], "texture": "#cross" }
+			}
+		},
+		{
+			"__comment": "west",
+			"from": [ 1, 1, 1 ],
+			"to": [ 15, 1.001, 15 ],
+			"faces": {
+				"down": { "uv": [ 1, 1, 15, 15 ], "texture": "#1" },
+				"up": { "uv": [ 1, 1, 15, 15 ], "texture": "#1" }
+			}
+		}
+	]
+}

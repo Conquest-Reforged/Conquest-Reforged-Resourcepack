@@ -1,0 +1,76 @@
+{
+"__comment": "Designed by Monsterfish with BDcraft Cubik PRO 0.96 Beta - http://bdcraft.net",
+"textures": {
+  "particle": "block/jungle_door_lower",
+  "top": "block/jungle_door_lower"
+},
+"elements": [ 
+{
+  "from": [ 0.25, 0, 0 ],
+  "to": [ 0.3125, 16, 16 ],
+  "faces": {
+    "west": { "uv": [ 0, 0, 16, 16 ], "texture": "#top" },
+    "east": { "uv": [ 0, 0, 16, 16 ], "texture": "#top" }
+  }
+},
+{
+  "from": [ 0.75, 0, 0 ],
+  "to": [ 0.8125, 16, 16 ],
+  "faces": {
+    "west": { "uv": [ 0, 0, 16, 16 ], "texture": "#top" },
+    "east": { "uv": [ 0, 0, 16, 16 ], "texture": "#top" }
+  }
+},
+{
+  "from": [ 1.25, 0, 0 ],
+  "to": [ 1.3125, 16, 16 ],
+  "faces": {
+    "west": { "uv": [ 0, 0, 16, 16 ], "texture": "#top" },
+    "east": { "uv": [ 0, 0, 16, 16 ], "texture": "#top" }
+  }
+},
+{
+  "from": [ 0, 0, 0 ],
+  "to": [ 0.0625, 16, 16 ],
+  "faces": {
+    "west": { "uv": [ 0, 0, 16, 16 ], "texture": "#top" },
+    "east": { "uv": [ 0, 0, 16, 16 ], "texture": "#top" }
+  }
+},
+{
+  "from": [ 0.5, 0, 0 ],
+  "to": [ 0.5625, 16, 16 ],
+  "faces": {
+    "west": { "uv": [ 0, 0, 16, 16 ], "texture": "#top" },
+    "east": { "uv": [ 0, 0, 16, 16 ], "texture": "#top" }
+  }
+},
+{
+  "from": [ 1, 0, 0 ],
+  "to": [ 1.0625, 16, 16 ],
+  "faces": {
+    "west": { "uv": [ 0, 0, 16, 16 ], "texture": "#top" },
+    "east": { "uv": [ 0, 0, 16, 16 ], "texture": "#top" }
+  }
+},
+{
+  "from": [ 1.5, 0, 0 ],
+  "to": [ 1.5625, 16, 16 ],
+  "faces": {
+    "west": { "uv": [ 0, 0, 16, 16 ], "texture": "#top" },
+    "east": { "uv": [ 0, 0, 16, 16 ], "texture": "#top" }
+  }
+},
+{
+  "from": [ 0, 0, 0 ],
+  "to": [ 1.75, 16, 16 ],
+  "faces": {
+    "down": { "uv": [ 16, 16, 14.25, 0 ], "texture": "#top" },
+    "north": { "uv": [ 14.25, 0, 16, 16 ], "texture": "#top" },
+    "south": { "uv": [ 0, 0, 1.75, 16 ], "texture": "#top" },
+    "west": { "uv": [ 0, 0, 16, 16 ], "texture": "#top" },
+    "east": { "uv": [ 0, 0, 16, 16 ], "texture": "#top" }
+  }
+}
+]
+}

@@ -1,0 +1,66 @@
+{
+  "__createdwith": "opl's Model Creator",
+  "ambientocclusion": false,
+  "textures": {
+    "0": "block/wheat_stage7",
+    "particle": "block/wheat_stage7"
+  },
+  "elements": [
+    {
+      "from": [12,-1,-8],
+      "to": [12,31,24],
+      "faces": {
+        "west": {
+          "uv": [0,0,16,16],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [0,0,16,16],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "from": [-8,-1,4],
+      "to": [24,31,4],
+      "faces": {
+        "north": {
+          "uv": [0,0,16,16],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [0,0,16,16],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "from": [-8,-1,12],
+      "to": [24,31,12],
+      "faces": {
+        "north": {
+          "uv": [0,0,16,16],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [0,0,16,16],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "from": [4,-1,-8],
+      "to": [4,31,24],
+      "faces": {
+        "west": {
+          "uv": [0,0,16,16],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [0,0,16,16],
+          "texture": "#0"
+        }
+      }
+    }
+  ]
+}

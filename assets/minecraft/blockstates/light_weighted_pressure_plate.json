@@ -1,0 +1,165 @@
+
+{
+"variants": {
+"power=0": [ 
+			 { "model": "block/light_weighted_pressure_plate" },
+			 { "model": "block/light_weighted_pressure_plate", "y": 90 },
+ 			 { "model": "block/light_weighted_pressure_plate", "y": 180 },
+			 { "model": "block/light_weighted_pressure_plate", "y": 270 },
+			 { "model": "block/light_weighted_pressure_plate_1" },
+			 { "model": "block/light_weighted_pressure_plate_1", "y": 90 },
+ 			 { "model": "block/light_weighted_pressure_plate_1", "y": 180 },
+			 { "model": "block/light_weighted_pressure_plate_1", "y": 270 }
+			],
+"power=1": [ 
+			 { "model": "block/light_weighted_pressure_plate" },
+			 { "model": "block/light_weighted_pressure_plate", "y": 90 },
+ 			 { "model": "block/light_weighted_pressure_plate", "y": 180 },
+			 { "model": "block/light_weighted_pressure_plate", "y": 270 },
+			 { "model": "block/light_weighted_pressure_plate_1" },
+			 { "model": "block/light_weighted_pressure_plate_1", "y": 90 },
+ 			 { "model": "block/light_weighted_pressure_plate_1", "y": 180 },
+			 { "model": "block/light_weighted_pressure_plate_1", "y": 270 }
+			],
+"power=2": [ 
+			 { "model": "block/light_weighted_pressure_plate" },
+			 { "model": "block/light_weighted_pressure_plate", "y": 90 },
+ 			 { "model": "block/light_weighted_pressure_plate", "y": 180 },
+			 { "model": "block/light_weighted_pressure_plate", "y": 270 },
+			 { "model": "block/light_weighted_pressure_plate_1" },
+			 { "model": "block/light_weighted_pressure_plate_1", "y": 90 },
+ 			 { "model": "block/light_weighted_pressure_plate_1", "y": 180 },
+			 { "model": "block/light_weighted_pressure_plate_1", "y": 270 }
+			],
+"power=3": [ 
+			 { "model": "block/light_weighted_pressure_plate" },
+			 { "model": "block/light_weighted_pressure_plate", "y": 90 },
+ 			 { "model": "block/light_weighted_pressure_plate", "y": 180 },
+			 { "model": "block/light_weighted_pressure_plate", "y": 270 },
+			 { "model": "block/light_weighted_pressure_plate_1" },
+			 { "model": "block/light_weighted_pressure_plate_1", "y": 90 },
+ 			 { "model": "block/light_weighted_pressure_plate_1", "y": 180 },
+			 { "model": "block/light_weighted_pressure_plate_1", "y": 270 }
+			],
+"power=4": [ 
+			 { "model": "block/light_weighted_pressure_plate" },
+			 { "model": "block/light_weighted_pressure_plate", "y": 90 },
+ 			 { "model": "block/light_weighted_pressure_plate", "y": 180 },
+			 { "model": "block/light_weighted_pressure_plate", "y": 270 },
+			 { "model": "block/light_weighted_pressure_plate_1" },
+			 { "model": "block/light_weighted_pressure_plate_1", "y": 90 },
+ 			 { "model": "block/light_weighted_pressure_plate_1", "y": 180 },
+			 { "model": "block/light_weighted_pressure_plate_1", "y": 270 }
+			],
+"power=5": [ 
+			 { "model": "block/light_weighted_pressure_plate" },
+			 { "model": "block/light_weighted_pressure_plate", "y": 90 },
+ 			 { "model": "block/light_weighted_pressure_plate", "y": 180 },
+			 { "model": "block/light_weighted_pressure_plate", "y": 270 },
+			 { "model": "block/light_weighted_pressure_plate_1" },
+			 { "model": "block/light_weighted_pressure_plate_1", "y": 90 },
+ 			 { "model": "block/light_weighted_pressure_plate_1", "y": 180 },
+			 { "model": "block/light_weighted_pressure_plate_1", "y": 270 }
+			],
+"power=6": [ 
+			 { "model": "block/light_weighted_pressure_plate" },
+			 { "model": "block/light_weighted_pressure_plate", "y": 90 },
+ 			 { "model": "block/light_weighted_pressure_plate", "y": 180 },
+			 { "model": "block/light_weighted_pressure_plate", "y": 270 },
+			 { "model": "block/light_weighted_pressure_plate_1" },
+			 { "model": "block/light_weighted_pressure_plate_1", "y": 90 },
+ 			 { "model": "block/light_weighted_pressure_plate_1", "y": 180 },
+			 { "model": "block/light_weighted_pressure_plate_1", "y": 270 }
+			],
+"power=7": [ 
+			 { "model": "block/light_weighted_pressure_plate" },
+			 { "model": "block/light_weighted_pressure_plate", "y": 90 },
+ 			 { "model": "block/light_weighted_pressure_plate", "y": 180 },
+			 { "model": "block/light_weighted_pressure_plate", "y": 270 },
+			 { "model": "block/light_weighted_pressure_plate_1" },
+			 { "model": "block/light_weighted_pressure_plate_1", "y": 90 },
+ 			 { "model": "block/light_weighted_pressure_plate_1", "y": 180 },
+			 { "model": "block/light_weighted_pressure_plate_1", "y": 270 }
+			],
+"power=8": [ 
+			 { "model": "block/light_weighted_pressure_plate" },
+			 { "model": "block/light_weighted_pressure_plate", "y": 90 },
+ 			 { "model": "block/light_weighted_pressure_plate", "y": 180 },
+			 { "model": "block/light_weighted_pressure_plate", "y": 270 },
+			 { "model": "block/light_weighted_pressure_plate_1" },
+			 { "model": "block/light_weighted_pressure_plate_1", "y": 90 },
+ 			 { "model": "block/light_weighted_pressure_plate_1", "y": 180 },
+			 { "model": "block/light_weighted_pressure_plate_1", "y": 270 }
+			],
+"power=9": [ 
+			 { "model": "block/light_weighted_pressure_plate" },
+			 { "model": "block/light_weighted_pressure_plate", "y": 90 },
+ 			 { "model": "block/light_weighted_pressure_plate", "y": 180 },
+			 { "model": "block/light_weighted_pressure_plate", "y": 270 },
+			 { "model": "block/light_weighted_pressure_plate_1" },
+			 { "model": "block/light_weighted_pressure_plate_1", "y": 90 },
+ 			 { "model": "block/light_weighted_pressure_plate_1", "y": 180 },
+			 { "model": "block/light_weighted_pressure_plate_1", "y": 270 }
+			],
+"power=10": [ 
+			 { "model": "block/light_weighted_pressure_plate" },
+			 { "model": "block/light_weighted_pressure_plate", "y": 90 },
+ 			 { "model": "block/light_weighted_pressure_plate", "y": 180 },
+			 { "model": "block/light_weighted_pressure_plate", "y": 270 },
+			 { "model": "block/light_weighted_pressure_plate_1" },
+			 { "model": "block/light_weighted_pressure_plate_1", "y": 90 },
+ 			 { "model": "block/light_weighted_pressure_plate_1", "y": 180 },
+			 { "model": "block/light_weighted_pressure_plate_1", "y": 270 }
+			],
+"power=11": [ 
+			 { "model": "block/light_weighted_pressure_plate" },
+			 { "model": "block/light_weighted_pressure_plate", "y": 90 },
+ 			 { "model": "block/light_weighted_pressure_plate", "y": 180 },
+			 { "model": "block/light_weighted_pressure_plate", "y": 270 },
+			 { "model": "block/light_weighted_pressure_plate_1" },
+			 { "model": "block/light_weighted_pressure_plate_1", "y": 90 },
+ 			 { "model": "block/light_weighted_pressure_plate_1", "y": 180 },
+			 { "model": "block/light_weighted_pressure_plate_1", "y": 270 }
+			],
+"power=12": [ 
+			 { "model": "block/light_weighted_pressure_plate" },
+			 { "model": "block/light_weighted_pressure_plate", "y": 90 },
+ 			 { "model": "block/light_weighted_pressure_plate", "y": 180 },
+			 { "model": "block/light_weighted_pressure_plate", "y": 270 },
+			 { "model": "block/light_weighted_pressure_plate_1" },
+			 { "model": "block/light_weighted_pressure_plate_1", "y": 90 },
+ 			 { "model": "block/light_weighted_pressure_plate_1", "y": 180 },
+			 { "model": "block/light_weighted_pressure_plate_1", "y": 270 }
+			],
+"power=13": [ 
+			 { "model": "block/light_weighted_pressure_plate" },
+			 { "model": "block/light_weighted_pressure_plate", "y": 90 },
+ 			 { "model": "block/light_weighted_pressure_plate", "y": 180 },
+			 { "model": "block/light_weighted_pressure_plate", "y": 270 },
+			 { "model": "block/light_weighted_pressure_plate_1" },
+			 { "model": "block/light_weighted_pressure_plate_1", "y": 90 },
+ 			 { "model": "block/light_weighted_pressure_plate_1", "y": 180 },
+			 { "model": "block/light_weighted_pressure_plate_1", "y": 270 }
+			],
+"power=14": [ 
+			 { "model": "block/light_weighted_pressure_plate" },
+			 { "model": "block/light_weighted_pressure_plate", "y": 90 },
+ 			 { "model": "block/light_weighted_pressure_plate", "y": 180 },
+			 { "model": "block/light_weighted_pressure_plate", "y": 270 },
+			 { "model": "block/light_weighted_pressure_plate_1" },
+			 { "model": "block/light_weighted_pressure_plate_1", "y": 90 },
+ 			 { "model": "block/light_weighted_pressure_plate_1", "y": 180 },
+			 { "model": "block/light_weighted_pressure_plate_1", "y": 270 }
+			],
+"power=15": [ 
+			 { "model": "block/light_weighted_pressure_plate" },
+			 { "model": "block/light_weighted_pressure_plate", "y": 90 },
+ 			 { "model": "block/light_weighted_pressure_plate", "y": 180 },
+			 { "model": "block/light_weighted_pressure_plate", "y": 270 },
+			 { "model": "block/light_weighted_pressure_plate_1" },
+			 { "model": "block/light_weighted_pressure_plate_1", "y": 90 },
+ 			 { "model": "block/light_weighted_pressure_plate_1", "y": 180 },
+			 { "model": "block/light_weighted_pressure_plate_1", "y": 270 }
+			]
+		}
+}

@@ -1,0 +1,22 @@
+{
+	"__comment": "Conquest Reforged",
+	"textures": {
+		"particle": "block/stone_button",
+		"texture": "block/stone_button"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Element",
+			"from": [ 4, 0, 3 ],
+			"to": [ 12, 1, 11 ],
+			"faces": {
+				"down": { "uv": [ 4, 4, 12, 12 ], "texture": "#texture", "cullface": "down" },
+				"up": { "uv": [ 4, 4, 12, 12 ], "texture": "#texture" },
+				"north": { "uv": [ 4, 15, 12, 16 ], "texture": "#texture" },
+				"south": { "uv": [ 4, 15, 12, 16 ], "texture": "#texture" },
+				"west": { "uv": [ 4, 15, 12, 16 ], "texture": "#texture" },
+				"east": { "uv": [ 4, 15, 12, 16 ], "texture": "#texture" }
+			}
+		}
+	]
+}

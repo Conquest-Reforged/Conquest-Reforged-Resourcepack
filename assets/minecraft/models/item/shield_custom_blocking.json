@@ -1,0 +1,33 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/empty_armor_slot_shield"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [ 45, 135, 0 ],
+      "translation": [ 3, -2, -1 ],
+      "scale": [ 2, 2, 1 ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [ 45, 315, 0 ],
+      "translation": [ 3, -2, -1 ],
+      "scale": [ 2, 2, 1 ]
+    },
+    "firstperson_righthand": {
+      "rotation": [ 0, 180, 5 ],
+      "translation": [ -3.5, -2.75, -2.5 ],
+      "scale": [ 2.2, 2.2, 1.1 ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [ 0, 0, 5 ],
+      "translation": [ -3.5, -2.75, -2.5 ],
+      "scale": [ 2.2, 2.2, 1.1 ]
+    },
+    "gui": {
+      "rotation": [ 0, 0, -0 ],
+      "translation": [ 0, 0, -10 ],
+      "scale": [ 1.1, 1.1, 1 ]
+    }
+  }
+}

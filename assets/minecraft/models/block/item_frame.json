@@ -1,0 +1,92 @@
+{
+	"__comment": "Designed by Monsterfish with BDcraft Cubik PRO 0.96 Beta - http://bdcraft.net",
+	"textures": {
+		"particle": "block/itemframe",
+		"texture": "block/itemframe_small",
+		"texture1": "item/diamond"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Element",
+			"from": [ 3.5, 3.5, 15.5 ],
+			"to": [ 12.5, 12.5, 15.501 ],
+			"faces": {
+				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
+			}
+		},
+		{
+			"__comment": "Element",
+			"from": [ 7.75, 7.5, 15.5 ],
+			"to": [ 8.25, 9, 15.501 ],
+			"rotation": { "origin": [ 7.75, 7.5, 15.5 ], "axis": "x", "angle": -22.5 },
+			"faces": {
+				"north": { "uv": [ 7.5, 6.5, 8.5, 9 ], "texture": "#texture" },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
+			}
+		},
+		{
+			"__comment": "Element",
+			"from": [ 3.5, 3.5, 15.625 ],
+			"to": [ 12.5, 12.5, 15.626 ],
+			"faces": {
+				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
+			}
+		},
+		{
+			"__comment": "Element",
+			"from": [ 3.5, 3.5, 15.75 ],
+			"to": [ 12.5, 12.5, 15.751 ],
+			"faces": {
+				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
+			}
+		},
+		{
+			"__comment": "Element",
+			"from": [ 3.5, 3.5, 15.875 ],
+			"to": [ 12.5, 12.5, 15.876 ],
+			"faces": {
+				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation":  [ 75, 45, 0 ],
+			"translation":  [ 0, 2.5, 0 ],
+			"scale":  [ 0.375, 0.375, 0.375 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation":  [ 75, 45, 0 ],
+			"translation":  [ 0, 2.5, 0 ],
+			"scale":  [ 0.375, 0.375, 0.375 ]
+		},
+		"firstperson_righthand": {
+			"rotation":  [ 0, 122, -1 ],
+			"translation":  [ 0, 3.02, 0 ],
+			"scale":  [ 0.4, 0.4, 0.4 ]
+		},
+		"firstperson_lefthand": {
+			"rotation":  [ 0, 122, -1 ],
+			"translation":  [ 0, 3.02, 0 ],
+			"scale":  [ 0.4, 0.4, 0.4 ]
+		},
+		"gui": {
+			"scale":  [ 0.8, 0.8, 0.8 ]
+		},
+		"head": {
+			"translation":  [ 0, 0.57, 0 ]
+		},
+		"ground": {
+			"translation":  [ 0, 2, 0 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		},
+		"fixed": {
+			"translation":  [ 0, 0, -7.95 ],
+			"scale":  [ 1.5, 1.5, 5.5 ]
+		}
+	}
+}

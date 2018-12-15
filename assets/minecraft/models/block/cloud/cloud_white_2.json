@@ -1,6 +1,0 @@
-{
-    "parent": "block/cube_cloud",
-    "textures": {
-        "all": "conquest:blocks/cloud/cloud_white_2"
-    }
-}
