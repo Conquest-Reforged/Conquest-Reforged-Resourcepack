@@ -2,8 +2,8 @@
 	"__comment": "Designed by Monsterfish_ with Cubik Studio - https://cubik.studio",
 	"textures": {
 		"particle": "block/birch_planks",
-		"texture": "block/birchfence",
-		"birchfence": "block/birchfence"
+		"texture": "block/birch_fence",
+		"birchfence": "block/birch_fence"
 	},
 	"elements": [ 	 
 		{

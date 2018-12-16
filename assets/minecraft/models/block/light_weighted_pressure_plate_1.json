@@ -3,7 +3,7 @@
 	"textures": {
 		"particle": "block/gold_pressure_plate",
 		"x156": "block/gold_pressure_plate",
-		"birch_planks": "block/planks_birch"
+		"birch_planks": "block/birch_planks"
 	},
 	"elements": [ 	 
 		{

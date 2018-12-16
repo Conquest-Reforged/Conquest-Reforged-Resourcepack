@@ -3,8 +3,8 @@
 	"parent": "block/block",
 	"textures": {
 		"particle": "block/birch_planks",
-		"texture": "block/birchfence",
-		"birchfence": "block/birchfence"
+		"texture": "block/birch_fence",
+		"birchfence": "block/birch_fence"
 	},
 	"elements": [ 	 
 		{

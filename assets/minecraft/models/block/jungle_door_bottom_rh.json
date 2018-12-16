@@ -1,8 +1,8 @@
 {
 "__comment": "Designed by Monsterfish with BDcraft Cubik PRO 0.96 Beta - http://bdcraft.net",
 "textures": {
-  "particle": "block/jungle_door_lower",
-  "top": "block/jungle_door_lower"
+  "particle": "block/jungle_door_bottom",
+  "top": "block/jungle_door_bottom"
 },
 "elements": [ 
 {

@@ -3,7 +3,7 @@
   "ambientocclusion": false,
   "textures": {
     "0": "block/wheat_stage6",
-    "1": "block/wheat_stage_6_extra",
+    "1": "block/wheat_stage6_extra",
     "particle": "block/wheat_stage6"
   },
   "elements": [

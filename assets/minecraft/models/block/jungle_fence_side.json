@@ -1,8 +1,8 @@
 {
 "textures": {
   "particle": "block/jungle_planks",
-  "texture": "block/junglefence",
-  "junglefencetop": "block/junglefencetop"
+  "texture": "block/jungle_fence",
+  "junglefencetop": "block/jungle_fence_top"
 },
 "elements": [ 
 {

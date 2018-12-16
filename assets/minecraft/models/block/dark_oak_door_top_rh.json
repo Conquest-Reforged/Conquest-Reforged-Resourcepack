@@ -2,10 +2,10 @@
 "__comment": "Fair warning, this format is highly likely to change even more in the future!",
 "ambientocclusion": false,
 "textures": {
-  "particle": "block/dark_oak_door_upper",
-  "bottom": "block/dark_oak_door_lower",
-  "top": "block/dark_oak_door_upper",
-  "extra": "block/door_dark_oak_extra"
+  "particle": "block/dark_oak_door_top",
+  "bottom": "block/dark_oak_door_bottom",
+  "top": "block/dark_oak_door_top",
+  "extra": "block/dark_oak_door_extra"
 },
 "elements": [ 
 {

@@ -2,8 +2,8 @@
 	"__comment": "Conquest Reforged",
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "block/rail_normal",
-		"rail": "block/rail_normal",
+		"particle": "block/rail",
+		"rail": "block/rail",
 		"plank": "block/rail_curved_plank_2"
 	},
 	"elements": [ 	 

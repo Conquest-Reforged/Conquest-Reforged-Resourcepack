@@ -1,8 +1,8 @@
 {
 	"__comment": "Conquest Reforged",
 	"textures": {
-		"particle": "block/birchbutton",
-		"texture": "block/birchbutton"
+		"particle": "block/birch_button",
+		"texture": "block/birch_button"
 	},
 	"elements": [ 	 
 		{
