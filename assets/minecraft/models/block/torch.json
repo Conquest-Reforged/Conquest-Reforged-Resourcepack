@@ -2,7 +2,9 @@
 "__comment": "Fair warning, this format is highly likely to change even more in the future!",
 "ambientocclusion": false,
 "inventoryRender3D": false,
+"parent": "block/block", 
 "textures": {
+    "up": "block/torch",
     "down": "block/torch",
     "particle": "block/torch"
 },
