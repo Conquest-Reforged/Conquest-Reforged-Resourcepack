@@ -1,0 +1,15 @@
+{
+    "variants": {
+        "": [
+            {
+                "model": "block/pink_tulip_model1"
+            },
+            {
+                "model": "block/pink_tulip_model2"
+            },
+            {
+                "model": "block/pink_tulip_model3"
+            }
+        ]
+    }
+}

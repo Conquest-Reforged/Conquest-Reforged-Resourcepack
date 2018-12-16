@@ -1,0 +1,6 @@
+{
+    "parent": "block/plant_model3",
+    "textures": {
+        "texture": "block/white_tulip"
+    }
+}
