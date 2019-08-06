@@ -1,13 +1,14 @@
 {
+	"parent": "block/block"
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "conquest:block/3_decoration/1_stone/terracotta_tile_wall_top",
+		"0": "conquest:block/3_decoration/1_stone/terracotta_fence_top",
 		"1": "conquest:block/3_decoration/1_stone/terracotta_urn_bottom",
 		"2": "conquest:block/3_decoration/1_stone/terracotta_urn_eye",
 		"3": "conquest:block/3_decoration/1_stone/terracotta_urn_side_1",
 		"5": "conquest:block/3_decoration/1_stone/terracotta_urn_top",
-		"6": "to_be_added/amphora handle",
-		"particle": "conquest:block/3_decoration/1_stone/terracotta_tile_wall_top"
+		"6": "conquest:block/3_decoration/1_stone/terracotta_urn_handle",
+		"particle": "conquest:block/3_decoration/1_stone/terracotta_fence_top"
 	},
 	"elements": [
 		{
@@ -67,7 +68,7 @@
 				"south": {"uv": [3, 0, 13, 3], "texture": "#0"},
 				"west": {"uv": [3, 0, 13, 3], "texture": "#0"},
 				"up": {"uv": [4, 4, 12, 12], "texture": "#5"},
-				"down": {"uv": [0, 0, 10, 10], "texture": "#missing"}
+				"down": {"uv": [0, 0, 10, 10], "texture": "#1"}
 			}
 		}
 	]
