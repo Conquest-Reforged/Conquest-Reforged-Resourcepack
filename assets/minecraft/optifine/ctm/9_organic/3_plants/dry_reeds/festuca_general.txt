@@ -1,3 +1,0 @@
-matchTiles=conquest:plants_festucapratensis
-tiles=4 2 2 3
-method=vertical
