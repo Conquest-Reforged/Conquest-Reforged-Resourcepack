@@ -1,0 +1,21 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "tools in ground/longsword"
+	},
+	"elements": [
+		{
+			"from": [-9.01561, -6.17983, 8.5],
+			"to": [22.98439, 23.32017, 8.5],
+			"rotation": {"angle": -45, "axis": "z", "origin": [6.98439, 8.57017, 8.5]},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "rotation": 270, "texture": "#1"},
+				"east": {"uv": [0, 0, 16, 0], "rotation": 270, "texture": "#missing"},
+				"south": {"uv": [16, 16, 0, 0], "rotation": 270, "texture": "#1"},
+				"west": {"uv": [0, 0, 16, 0], "rotation": 270, "texture": "#missing"},
+				"up": {"uv": [0, 0, 0, 16], "rotation": 270, "texture": "#missing"},
+				"down": {"uv": [0, 0, 0, 16], "rotation": 270, "texture": "#missing"}
+			}
+		}
+	]
+}

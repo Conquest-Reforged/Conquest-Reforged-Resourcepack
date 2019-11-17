@@ -1,0 +1,22 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "tools in ground/iron_pickaxe",
+		"particle": "tools in ground/iron_pickaxe"
+	},
+	"elements": [
+		{
+			"from": [2.5, -1, 8.5],
+			"to": [18.5, 15, 8.5],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [10.5, 7, 16.5]},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "rotation": 180, "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#0"},
+				"south": {"uv": [16, 16, 0, 0], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 0], "texture": "#0"}
+			}
+		}
+	]
+}
