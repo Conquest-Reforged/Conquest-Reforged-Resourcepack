@@ -1,7 +1,0 @@
-method=repeat
-width=8
-height=8
-tiles=1-64
-metadata=0
-faces=sides
-biomes=Taiga TaigaHills TaigaM MegaTaiga MegaTaigaHills MegaSpruceTaiga ColdTaiga ColdTaigaM  ColdTaigaHills ExtremeHills ExtremeHillsEdge ExtremeHills+  ExtremeHillsM ExtremeHills+M IceMountains
