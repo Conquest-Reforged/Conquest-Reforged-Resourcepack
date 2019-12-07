@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "age=0": { "model": "conquest:block/heirloom_wheat_crops" },
+        "age=1": { "model": "conquest:block/heirloom_wheat_crops" },
+        "age=2": { "model": "conquest:block/heirloom_wheat_crops" },
+        "age=3": { "model": "conquest:block/heirloom_wheat_crops" },
+        "age=4": { "model": "conquest:block/heirloom_wheat_crops" },
+        "age=5": { "model": "conquest:block/heirloom_wheat_crops" },
+        "age=6": { "model": "conquest:block/heirloom_wheat_crops" },
+        "age=7": { "model": "conquest:block/heirloom_wheat_crops" }
+    }
+}
