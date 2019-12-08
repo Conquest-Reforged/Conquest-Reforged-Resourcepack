@@ -1,8 +1,8 @@
 {
     "ambientocclusion": false,
     "textures": {
-        "particle": "conquest:block/9_organic/2_leaves/big_water_lilies",
-        "texture": "conquest:block/9_organic/2_leaves/big_water_lilies"
+        "particle": "conquest:block/9_organic/3_plants/big_water_lilies",
+        "texture": "conquest:block/9_organic/3_plants/big_water_lilies"
     },
     "elements": [
         {   "from": [ 0, 0.25, 0 ],
