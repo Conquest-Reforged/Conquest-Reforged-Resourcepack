@@ -1,9 +1,0 @@
-# Converted from /ctm/block3.properties and /ctm/Johnsrandom.png
-# Individual tiles are in /ctm/Johnsrandom
-#Thu Mar 14 15:04:19 CET 2013
-tiles=1-16
-width=4
-height=4
-method=repeat
-metadata=3
-matchTiles=grass_side.png
