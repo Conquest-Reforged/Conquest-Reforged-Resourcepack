@@ -1,4 +1,0 @@
-tiles=256 257
-method=random
-matchTiles=conquest:coalblock2
-renderPass=3
