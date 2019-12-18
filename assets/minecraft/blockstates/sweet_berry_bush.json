@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "age=0": { "model": "block/berry" },
+        "age=0": { "model": "block/berry1" },
+        "age=0": { "model": "block/berry2" },
+        "age=1": { "model": "block/berry3" },
+        "age=1": { "model": "block/berry4" },
+        "age=1": { "model": "block/berry5" },
+        "age=2": { "model": "block/berry6" },
+        "age=2": { "model": "block/berry7" },
+        "age=2": { "model": "block/berry8" },
+        "age=3": { "model": "block/berry9" },
+        "age=3": { "model": "block/berry10" },
+        "age=3": { "model": "block/berry11" }
+    }
+}

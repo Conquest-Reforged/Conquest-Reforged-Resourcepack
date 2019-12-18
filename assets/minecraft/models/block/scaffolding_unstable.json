@@ -1,0 +1,122 @@
+{
+    "parent": "block/block",
+	"__comment": "Conquest Reforged",
+	"textures": {
+		"particle": "block/scaffolding_outer",
+		"texture": "block/scaffolding_outer",
+		"ladder": "block/ladder",
+		"inner": "block/scaffolding_inner",
+		"top": "block/scaffolding_top",
+		"bottom": "block/scaffolding_bottom"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "PlaneX2",
+			"from": [ 0, 0, 0 ],
+			"to": [ 0.001, 16, 16 ],
+			"faces": {
+				"west": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
+				"east": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
+			}
+		},
+		{
+			"__comment": "PlaneX2",
+			"from": [ 3, 0, 0 ],
+			"to": [ 3.001, 16, 16 ],
+			"faces": {
+				"west": { "uv": [ 0, 0, 16, 16 ], "texture": "#inner" },
+				"east": { "uv": [ 0, 0, 16, 16 ], "texture": "#inner" }
+			}
+		},
+		{
+			"__comment": "PlaneX2",
+			"from": [ 0, 0, 0 ],
+			"to": [ 0.001, 16, 16 ],
+			"faces": {
+				"west": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture", "cullface": "west" },
+				"east": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
+			}
+		},
+		{
+			"__comment": "PlaneX2",
+			"from": [ 16, 0, 0 ],
+			"to": [ 16.001, 16, 16 ],
+			"faces": {
+				"west": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
+				"east": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
+			}
+		},
+		{
+			"__comment": "PlaneX2",
+			"from": [ 13, 0, 0 ],
+			"to": [ 13.001, 16, 16 ],
+			"faces": {
+				"west": { "uv": [ 0, 0, 16, 16 ], "texture": "#inner" },
+				"east": { "uv": [ 0, 0, 16, 16 ], "texture": "#inner" }
+			}
+		},
+		{
+			"__comment": "PlaneZ15",
+			"from": [ 0, 0, 0 ],
+			"to": [ 16, 16, 0.001 ],
+			"faces": {
+				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
+			}
+		},
+		{
+			"__comment": "PlaneZ15",
+			"from": [ 0, 0, 0 ],
+			"to": [ 16, 16, 0.001 ],
+			"faces": {
+				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture", "cullface": "north" },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
+			}
+		},
+		{
+			"__comment": "PlaneZ15",
+			"from": [ 0, 0, 3 ],
+			"to": [ 16, 16, 3.001 ],
+			"faces": {
+				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#inner" },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#inner" }
+			}
+		},
+		{
+			"__comment": "PlaneZ15",
+			"from": [ 0, 0, 16 ],
+			"to": [ 16, 16, 16.001 ],
+			"faces": {
+				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
+			}
+		},
+		{
+			"__comment": "PlaneZ15",
+			"from": [ 0, 0, 13 ],
+			"to": [ 16, 16, 13.001 ],
+			"faces": {
+				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#inner" },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#inner" }
+			}
+		},
+		{
+			"__comment": "PlaneY21",
+			"from": [ 0, 0, 0 ],
+			"to": [ 16, 0.001, 16 ],
+			"faces": {
+				"down": { "uv": [ 0, 0, 16, 16 ], "texture": "#bottom", "cullface": "down" },
+				"up": { "uv": [ 0, 0, 16, 16 ], "texture": "#bottom", "cullface": "down" }
+			}
+		},
+		{
+			"__comment": "PlaneY21",
+			"from": [ 0, 16, 0 ],
+			"to": [ 16, 16.001, 16 ],
+			"faces": {
+				"down": { "uv": [ 0, 0, 16, 16 ], "texture": "#top", "cullface": "up" },
+				"up": { "uv": [ 0, 0, 16, 16 ], "texture": "#top", "cullface": "up" }
+			}
+		}
+	]
+}
