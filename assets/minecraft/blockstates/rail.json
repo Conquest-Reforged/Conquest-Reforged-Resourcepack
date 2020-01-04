@@ -1,14 +1,14 @@
 {
   "variants": {
-    "shape=north_south": { "model": "block/rail" },
-    "shape=east_west": { "model": "block/rail", "y": 90 },
-    "shape=ascending_east": { "model": "block/rail_raised_ne", "y": 90 },
-    "shape=ascending_west": { "model": "block/rail_raised_sw", "y": 90 },
-    "shape=ascending_north": { "model": "block/rail_raised_ne" },
-    "shape=ascending_south": { "model": "block/rail_raised_sw" },
-    "shape=south_east": { "model": "block/rail_corner" },
-    "shape=south_west": { "model": "block/rail_corner", "y": 90 },
-    "shape=north_west": { "model": "block/rail_corner", "y": 180 },
-    "shape=north_east": { "model": "block/rail_corner", "y": 270 }
+    "shape=north_south": { "model": "block/rail_cr" },
+    "shape=east_west": { "model": "block/rail_cr", "y": 90 },
+    "shape=ascending_east": { "model": "block/rail_raised_ne_cr", "y": 90 },
+    "shape=ascending_west": { "model": "block/rail_raised_sw_cr", "y": 90 },
+    "shape=ascending_north": { "model": "block/rail_raised_ne_cr" },
+    "shape=ascending_south": { "model": "block/rail_raised_sw_cr" },
+    "shape=south_east": { "model": "block/rail_corner_cr" },
+    "shape=south_west": { "model": "block/rail_corner_cr", "y": 90 },
+    "shape=north_west": { "model": "block/rail_corner_cr", "y": 180 },
+    "shape=north_east": { "model": "block/rail_corner_cr", "y": 270 }
   }
 }
