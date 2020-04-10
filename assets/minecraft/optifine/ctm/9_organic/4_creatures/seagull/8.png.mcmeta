@@ -1,7 +1,6 @@
 {
   "animation": {
     "frames": [
-      
       {
         "index": 0,
         "time": 14
@@ -53,8 +52,7 @@
       {
         "index": 4,
         "time": 4
-      },
-
+      }
     ]
   }
 }
