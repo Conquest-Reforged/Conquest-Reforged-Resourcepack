@@ -1,0 +1,19 @@
+{
+ "models": 
+ [
+  {
+   "model": "sheep_head.jpm",
+   "part": "head", 
+	 "attach": false,
+   "translate": [ 7.0, 3.5, -11.00],
+   "rotate": [0, 0, 0]
+  },
+  {
+   "model": "sheep_body.jpm",
+   "part": "body", 
+  "attach": false,
+   "translate": [ 8.0, -11, -10.5], 
+   "rotate": [-90, 0, 0]
+  }
+ ]
+}
