@@ -1,0 +1,68 @@
+{
+ "comment": "Designed by Kurgahn_ with Cubik Studio - https://cubik.studio",
+ "createdWith": "Cubik Studio 2.9.480 Beta",
+ "texture": "textures/entity/pig/pig",
+ "textureSize": [256,128],
+ "submodels": [
+  {
+   "id": "e0_PlaneZ2",
+   "translate": [-3.5,-3.5,20.0],
+   "rotate": [15.0,0.0,0.0],
+   "boxes": [
+    {
+     "coordinates": [-9.0,-9.0,0.0,9.0,9.0,0.001],
+     "uvNorth": [224,160,256,192],
+     "uvSouth": [224,160,256,192]
+    }
+   ]
+  },
+  {
+   "id": "e1_Box1",
+   "translate": [-5.01,-9.58,2.41],
+   "rotate": [350.0,0.0,0.0],
+   "boxes": [
+    {
+     "coordinates": [-5.98,-4.5,0.0,5.98,4.5,12.5],
+     "uvDown": [72,208,112,256],
+     "uvUp": [72,208,112,256],
+     "uvNorth": [72,208,112,256],
+     "uvSouth": [72,208,112,256],
+     "uvWest": [72,208,112,256],
+     "uvEast": [72,208,112,256]
+    }
+   ]
+  },
+  {
+   "id": "e2_Box1",
+   "translate": [-5.0,-12.0,1.5],
+   "rotate": [320.0,0.0,0.0],
+   "boxes": [
+    {
+     "coordinates": [-6.0,-2.62,0.0,6.0,2.62,3.0],
+     "uvDown": [72,208,112,224],
+     "uvUp": [72,208,112,224],
+     "uvNorth": [72,208,112,224],
+     "uvSouth": [72,208,112,224],
+     "uvWest": [72,208,88,224],
+     "uvEast": [72,208,88,224]
+    }
+   ]
+  },
+  {
+   "id": "e3_Box5",
+   "translate": [-12.5,-12.0,18.0],
+   "rotate": [270.0,180.0,0.0],
+   "boxes": [
+    {
+     "coordinates": [-9.0,-16.5,0.0,9.0,16.5,8.5],
+     "uvDown": [224,192,184,160],
+     "uvUp": [144,160,184,192],
+     "uvNorth": [216,192,256,256],
+     "uvSouth": [144,192,184,256],
+     "uvWest": [112,192,144,256],
+     "uvEast": [184,192,216,256]
+    }
+   ]
+  }
+ ]
+}

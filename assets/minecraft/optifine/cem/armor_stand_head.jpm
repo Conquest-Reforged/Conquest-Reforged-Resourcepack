@@ -1,0 +1,23 @@
+{
+  "comment": "Conquest Reforged",
+  "createdWith": "Cubik Studio 2.9.480 Beta",
+  "texture": "textures/entity/armorstand/wood",
+  "textureSize": [128,128],
+  "submodels": [
+    {
+      "id": "e0_Box1",
+      "translate": [-4.5,0.0,4.5],
+      "boxes": [
+        {
+          "coordinates": [-7.0,-7.0,0.0,7.0,7.0,7.0],
+          "uvDown": [96,128,112,144],
+          "uvUp": [80,128,96,144],
+          "uvNorth": [80,144,96,160],
+          "uvSouth": [112,144,128,160],
+          "uvWest": [64,144,80,160],
+          "uvEast": [96,144,112,160]
+        }
+      ]
+    }
+  ]
+}

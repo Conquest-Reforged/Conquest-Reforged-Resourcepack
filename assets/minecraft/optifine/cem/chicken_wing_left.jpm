@@ -1,0 +1,24 @@
+{
+ "comment": "Designed by Monsterfish_ with Cubik Studio - https://cubik.studio",
+ "createdWith": "Cubik Studio 2.9.480 Beta",
+  "folder/texture": "textures/entity/chicken.png",
+ "textureSize": [256,128],
+ "submodels": [
+  {
+   "id": "e0_Box4",
+   "translate": [-6.15625,-0.8125,0.8125],
+   "rotate": [0.0,90.0,0.0],
+   "boxes": [
+    {
+     "coordinates": [-5.875,-4.84375,0.0,5.875,4.84375,1.28125],
+     "uvDown": [124,180,128,204],
+     "uvUp": [120,180,124,204],
+     "uvNorth": [96,204,120,220],
+     "uvSouth": [128,204,152,220],
+     "uvWest": [120,204,124,220],
+     "uvEast": [148,204,152,220]
+    }
+   ]
+  }
+ ]
+}

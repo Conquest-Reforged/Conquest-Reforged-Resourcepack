@@ -1,0 +1,54 @@
+{
+ "comment": "Designed by Monsterfish_ with Cubik Studio - https://cubik.studio",
+ "createdWith": "Cubik Studio 2.8.438 Beta",
+ "folder/texture": "textures/entity/cow.png",
+ "textureSize": [256,128],
+ "submodels": [
+  {
+   "id": "e0_Box5",
+   "translate": [-5.8125,-7.8125,-0.09375],
+   "boxes": [
+    {
+     "coordinates": [-4.1875,-6.46875,0.0,4.1875,6.46875,5.59375],
+     "uvDown": [45,209,60,226],
+     "uvUp": [15,192,31,208],
+     "uvNorth": [17,208,33,234],
+     "uvSouth": [0,207,16,229],
+     "uvWest": [170,187,186,211],
+     "uvEast": [93,187,108,209]
+    }
+   ]
+  },
+  {
+   "id": "e1_Box5",
+   "translate": [-5.9375,-3.25,3.40625],
+   "rotate": [25.0,0.0,0.0],
+   "boxes": [
+    {
+     "coordinates": [-4.0,-7.90625,0.0,4.0,7.90625,4.09375],
+     "uvDown": [32,192,47,208],
+     "uvUp": [16,192,32,208],
+     "uvNorth": [48,220,63,241],
+     "uvSouth": [0,218,15,239],
+     "uvWest": [16,219,32,240],
+     "uvEast": [31,219,46,240]
+    }
+   ]
+  },
+  {
+   "id": "e2_Box5",
+   "translate": [-5.8125,1.5,3.1875],
+   "boxes": [
+    {
+     "coordinates": [-4.1875,-6.46875,0.0,4.1875,6.46875,4.03125],
+     "uvDown": [32,192,47,208],
+     "uvUp": [16,192,32,208],
+     "uvNorth": [48,238,63,255],
+     "uvSouth": [0,238,15,255],
+     "uvWest": [15,238,30,255],
+     "uvEast": [31,238,46,255]
+    }
+   ]
+  }
+ ]
+}

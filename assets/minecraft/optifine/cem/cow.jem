@@ -1,0 +1,33 @@
+{
+ "models": 
+ [
+  {
+   "model": "cow_head.jpm",
+   "part": "head", 
+	 "attach": false,
+   "translate": [ 7.0, 9.5, -11.00],
+   "rotate": [25, 0, 0]
+  },
+  {
+   "model": "cow_body.jpm",
+   "part": "body", 
+  "attach": false,
+   "translate": [ 8.0, -11, -10.5], 
+   "rotate": [-90, 0, 0]
+  },
+  {
+   "model": "cow_backlegs.jpm",
+   "part": "leg1", 
+  "attach": false,
+   "translate": [ 7.8, 10, -2.0], 
+   "rotate": [0, 0, 0]
+  },
+  {
+   "model": "cow_backlegs.jpm",
+   "part": "leg2", 
+  "attach": false,
+   "translate": [ 8.0, 10, -2.0], 
+   "rotate": [0, 0, 0]
+  }
+ ]
+}
