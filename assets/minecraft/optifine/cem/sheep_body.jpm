@@ -1,0 +1,23 @@
+{
+ "comment": "Designed by Kurgahn_ with Cubik Studio - https://cubik.studio",
+ "createdWith": "Cubik Studio 2.9.480 Beta",
+ "texture": "textures/entity/sheep/sheep",
+ "textureSize": [256,128],
+ "submodels": [
+  {
+   "id": "e0_Box1",
+   "translate": [-3.999999,-2.0,1.75],
+   "boxes": [
+    {
+     "coordinates": [-8.0,-9.0,0.0,8.0,9.0,16.5],
+     "uvDown": [140,184,176,248],
+     "uvUp": [188,184,224,248],
+     "uvNorth": [136,160,168,184],
+     "uvSouth": [168,160,200,184],
+     "uvWest": [180,216,224,244],
+     "uvEast": [180,220,224,248]
+    }
+   ]
+  }
+ ]
+}

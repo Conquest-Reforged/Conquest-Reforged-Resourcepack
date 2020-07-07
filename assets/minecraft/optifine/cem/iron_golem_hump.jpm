@@ -1,0 +1,22 @@
+{
+ "comment": "Designed by Monsterfish_ with Cubik Studio - https://cubik.studio",
+ "createdWith": "Cubik Studio 2.8.438 Beta",
+ "texture": "textures/entity/iron_golem",
+ "textureSize": [512,512],
+ "submodels": [
+  {
+   "id": "e0_Box1",
+   "translate": [-4.0,0.0,7.5],
+   "rotate": [90.0,180.0,180.0],
+   "boxes": [
+    {
+     "coordinates": [-8.0,-7.5,0.0,8.0,7.5,7.5],
+     "uvDown": [36,356,72,392],
+     "uvUp": [0,356,36,392],
+     "uvSouth": [44,160,80,196],
+     "uvEast": [80,160,116,196]
+    }
+   ]
+  }
+ ]
+} 
