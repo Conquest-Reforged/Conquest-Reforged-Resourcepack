@@ -3,10 +3,10 @@
     "textures": {
         "bottom": "block/dirt",
         "top": "block/farmland",
-        "north": "block/dirt",
-        "east": "block/dirt",
-        "west": "block/dirt",
-        "south": "block/dirt",
+        "north": "block/farmland",
+        "east": "block/farmland",
+        "west": "block/farmland",
+        "south": "block/farmland",
         "particle": "block/farmland"
     },
     "elements": [
