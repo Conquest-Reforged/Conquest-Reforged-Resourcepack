@@ -2,12 +2,12 @@
     "parent": "block/block",
     "textures": {
         "bottom": "block/dirt",
-        "top": "conquest:block/8_topography/5_dirt/diagonally_plowed_farmland",
+        "top": "block/farmland_moist",
         "north": "block/dirt",
         "east": "block/dirt",
         "west": "block/dirt",
         "south": "block/dirt",
-        "particle": "conquest:block/8_topography/5_dirt/diagonally_plowed_farmland"
+        "particle": "block/farmland_moist"
     },
     "elements": [
         {   "from": [ 0, 0, 0 ],
