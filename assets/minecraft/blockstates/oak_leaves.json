@@ -2,17 +2,9 @@
     "variants": {
         "": [
             { "model": "block/oak_leaves" },
-			{ "model": "block/oak_leaves_1" },
-			{ "model": "block/oak_leaves_2" },
-			{ "model": "block/oak_leaves", "y": 90  },
 			{ "model": "block/oak_leaves_1", "y": 90 },
-			{ "model": "block/oak_leaves_2", "y": 90 },
-			{ "model": "block/oak_leaves", "y": 180  },
-			{ "model": "block/oak_leaves_1", "y": 180 },
 			{ "model": "block/oak_leaves_2", "y": 180 },
-			{ "model": "block/oak_leaves", "y": 270  },
-			{ "model": "block/oak_leaves_1", "y": 270 },
-			{ "model": "block/oak_leaves_2", "y": 270 }
+			{ "model": "block/oak_leaves_3", "y": 270 }
         ]
     }
 }
