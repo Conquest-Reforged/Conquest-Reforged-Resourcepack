@@ -1,0 +1,38 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"texture_size": [32, 32],
+	"textures": {
+		"2": "block/melon_stem_connected",
+		"particle": "block/melon_stem_connected"
+	},
+	"elements": [
+		{
+			"from": [-5, -8, 1],
+			"to": [21, -8, 16.75],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [13, 0, -7.25]},
+			"faces": {
+				"up": {"uv": [13, 8, 0, 0], "texture": "#2"},
+				"down": {"uv": [0, 0, 13, 7.875], "texture": "#2"}
+			}
+		},
+		{
+			"from": [-7.75, 0.25, 0.75],
+			"to": [24.25, 0.25, 18],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [16.25, 8.25, 8.75]},
+			"faces": {
+				"up": {"uv": [0, 0, 16, 8.625], "texture": "#2"},
+				"down": {"uv": [0, 8.625, 16, 0], "texture": "#2"}
+			}
+		},
+		{
+			"from": [3.5, 2, -9.25],
+			"to": [20.25, 2, 22],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [6, 10.5, 5.75]},
+			"faces": {
+				"up": {"uv": [0, 0, 15.625, 8.375], "rotation": 270, "texture": "#2"},
+				"down": {"uv": [0, 0, 15.625, 8.375], "rotation": 270, "texture": "#2"}
+			}
+		}
+	]
+}
