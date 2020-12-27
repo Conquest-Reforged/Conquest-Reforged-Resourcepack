@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+            { "model": "conquest:block/pine_needles" },
+			{ "model": "conquest:block/pine_needles_1", "y": 90 },
+			{ "model": "conquest:block/pine_needles_2", "y": 180 },
+			{ "model": "conquest:block/pine_needles_3", "y": 270 }
+        ]
+    }
+}
