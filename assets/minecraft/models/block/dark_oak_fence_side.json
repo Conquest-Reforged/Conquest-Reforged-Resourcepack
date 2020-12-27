@@ -1,4 +1,7 @@
 {
+
+      "parent": "block/fence_side",
+
 "textures": {
   "particle": "block/dark_oak_planks",
   "texture": "block/dark_oak_planks"
