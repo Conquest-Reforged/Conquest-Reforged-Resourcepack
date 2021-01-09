@@ -4,7 +4,7 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"0": "conquest:block/9_organic/2_leaves/apple_tree_leaves_fruit_1",
-		"3": "conquest:block/9_organic/2_leaves/apple_tree_leaves_1",
+		"3": "conquest:block/9_organic/2_leaves/apple_tree_leaves_2",
 		"4": "conquest:block/9_organic/2_leaves/apple_tree_leaves_box_1",
 		"particle": "conquest:block/9_organic/2_leaves/apple_tree_leaves_1"
 	},
