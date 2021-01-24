@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+            { "model": "conquest:block/mistletoe_leaves" },
+			{ "model": "conquest:block/mistletoe_leaves_1", "y": 90 },
+			{ "model": "conquest:block/mistletoe_leaves_2", "y": 180 },
+			{ "model": "conquest:block/mistletoe_leaves_3", "y": 270 }
+        ]
+    }
+}
