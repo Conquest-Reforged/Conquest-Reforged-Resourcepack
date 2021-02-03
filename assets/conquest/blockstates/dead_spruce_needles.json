@@ -1,0 +1,52 @@
+{
+    "variants": {
+        "age=0": [
+            { "model": "conquest:block/dead_spruce_needles" },
+			{ "model": "conquest:block/dead_spruce_needles_1", "y": 90 },
+			{ "model": "conquest:block/dead_spruce_needles_2", "y": 180 },
+			{ "model": "conquest:block/dead_spruce_needles_3", "y": 270 }
+        ],
+		"age=1": [
+            { "model": "conquest:block/dead_spruce_needles" },
+			{ "model": "conquest:block/dead_spruce_needles_1", "y": 90 },
+			{ "model": "conquest:block/dead_spruce_needles_2", "y": 180 },
+			{ "model": "conquest:block/dead_spruce_needles_3", "y": 270 }
+        ],
+		"age=2": [
+            { "model": "conquest:block/dead_spruce_needles" },
+			{ "model": "conquest:block/dead_spruce_needles_1", "y": 90 },
+			{ "model": "conquest:block/dead_spruce_needles_2", "y": 180 },
+			{ "model": "conquest:block/dead_spruce_needles_3", "y": 270 }
+        ],
+		"age=3": [
+            { "model": "conquest:block/dead_spruce_needles" },
+			{ "model": "conquest:block/dead_spruce_needles_1", "y": 90 },
+			{ "model": "conquest:block/dead_spruce_needles_2", "y": 180 },
+			{ "model": "conquest:block/dead_spruce_needles_3", "y": 270 }
+        ],
+		"age=4": [
+            { "model": "conquest:block/dead_spruce_needles" },
+			{ "model": "conquest:block/dead_spruce_needles_1", "y": 90 },
+			{ "model": "conquest:block/dead_spruce_needles_2", "y": 180 },
+			{ "model": "conquest:block/dead_spruce_needles_3", "y": 270 }
+        ],
+		"age=5": [
+            { "model": "conquest:block/dead_spruce_needles" },
+			{ "model": "conquest:block/dead_spruce_needles_1", "y": 90 },
+			{ "model": "conquest:block/dead_spruce_needles_2", "y": 180 },
+			{ "model": "conquest:block/dead_spruce_needles_3", "y": 270 }
+        ],
+		"age=6": [
+            { "model": "conquest:block/dead_spruce_needles" },
+			{ "model": "conquest:block/dead_spruce_needles_1", "y": 90 },
+			{ "model": "conquest:block/dead_spruce_needles_2", "y": 180 },
+			{ "model": "conquest:block/dead_spruce_needles_3", "y": 270 }
+        ],
+		"age=7": [
+            { "model": "conquest:block/dead_spruce_needles_fruit" },
+			{ "model": "conquest:block/dead_spruce_needles_fruit_1", "y": 90 },
+			{ "model": "conquest:block/dead_spruce_needles_fruit_2", "y": 180 },
+			{ "model": "conquest:block/dead_spruce_needles_fruit_3", "y": 270 }
+        ]
+    }
+}
