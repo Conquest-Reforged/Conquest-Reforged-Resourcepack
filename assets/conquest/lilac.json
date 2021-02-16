@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+            { "model": "conquest:block/lilac" },
+			{ "model": "conquest:block/lilac_1", "y": 90 },
+			{ "model": "conquest:block/lilac_2", "y": 180 },
+			{ "model": "conquest:block/lilac_3", "y": 270 }
+        ]
+    }
+}
