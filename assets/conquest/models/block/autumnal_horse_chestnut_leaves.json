@@ -3,9 +3,9 @@
 	"ambientocclusion": false,
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "conquest:block/9_organic/2_leaves/autumnal_horse_chestnut_leaves_1",
-		"3": "conquest:block/9_organic/2_leaves/autumnal_horse_chestnut_leaves_1",
-		"particle": "conquest:block/9_organic/2_leaves/autumnal_horse_chestnut_leaves_1"
+		"0": "conquest:block/9_organic/2_leaves/autumnal_horse_chestnut_leaves",
+		"3": "conquest:block/9_organic/2_leaves/autumnal_horse_chestnut_leaves",
+		"particle": "conquest:block/9_organic/2_leaves/autumnal_horse_chestnut_leaves"
 	},
 	"elements": [
 		{
