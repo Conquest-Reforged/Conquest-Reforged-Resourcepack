@@ -1,0 +1,87 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "conquest:block/9_organic/3_plants/purple_wolfs_bane",
+		"texture": "conquest:block/9_organic/3_plants/purple_wolfs_bane"
+	},
+	"elements": [
+		{
+			"name": "PlaneX1",
+			"from": [-10, 0, 21.2498],
+			"to": [22, 32, 21.2518],
+			"shade": false,
+			"rotation": {"angle": -45, "axis": "y", "origin": [22, 0, 21.25]},
+			"faces": {
+				"north": {"uv": [1, 0, 16, 16], "texture": "#texture"},
+				"south": {"uv": [0, 0, 15, 16], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "PlaneX1",
+			"from": [3.9982, 0, -4.75],
+			"to": [4.0002, 32, 27.25],
+			"shade": false,
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [4, 0, 27.25]},
+			"faces": {
+				"east": {"uv": [1, 0, 16, 16], "texture": "#texture"},
+				"west": {"uv": [0, 0, 15, 16], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "PlaneX1",
+			"from": [-8, 0, 6.2498],
+			"to": [24, 32, 6.2518],
+			"shade": false,
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [24, 0, 6.25]},
+			"faces": {
+				"north": {"uv": [1, 0, 16, 16], "texture": "#texture"},
+				"south": {"uv": [0, 0, 15, 16], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "PlaneX1",
+			"from": [23, 0, -6.25],
+			"to": [23.002, 32, 25.75],
+			"shade": false,
+			"rotation": {"angle": -45, "axis": "y", "origin": [23, 0, -6.25]},
+			"faces": {
+				"east": {"uv": [0, 0, 15, 16], "texture": "#texture"},
+				"west": {"uv": [1, 0, 16, 16], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "PlaneX1",
+			"from": [22.998, 0, -16],
+			"to": [23, 32, 16],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [23, 0, 14.75]},
+			"faces": {
+				"east": {"uv": [16, 0, 1, 16], "texture": "#texture"},
+				"west": {"uv": [15, 0, 0, 16], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "PlaneX1",
+			"from": [12, -10, -1],
+			"to": [12.002, 22, 31],
+			"shade": false,
+			"rotation": {"angle": -45, "axis": "y", "origin": [12, -10, -1]},
+			"faces": {
+				"east": {"uv": [15, 0, 0, 16], "texture": "#texture"},
+				"west": {"uv": [16, 0, 1, 16], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "PlaneX1",
+			"from": [13.998, -10, -12],
+			"to": [14, 22, 20],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [14, -10, 20]},
+			"faces": {
+				"east": {"uv": [1, 0, 16, 16], "texture": "#texture"},
+				"west": {"uv": [0, 0, 15, 16], "texture": "#texture"}
+			}
+		}
+	]
+}
