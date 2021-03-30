@@ -3,39 +3,40 @@
  [
   
   {
+  "id": "Head",
    "model": "chicken_head.jpm",
-   "part": "head", 
-  "attach": false,
+   "part": "head",
    "translate": [ 8.0, 1.5, -0.8], 
    "rotate": [0, 0, 0]
   },
   {
+  "id": "beak",
    "model": "chicken_beak.jpm",
-   "part": "bill", 
-  "attach": false,
+   "part": "bill",
    "translate": [ 8.0, -3, -2.5], 
    "rotate": [0, 0, 0]
   },
   {
+  "id": "body",
    "model": "chicken_body.jpm",
    "part": "body", 
-  "attach": false,
+  "attach": true,
    "translate": [ 8.0, -3.0, -3.0], 
    "rotate": [-90, 0, 0]
   },
   {
-   
+   "id": "lwing",
    "model": "chicken_wing_left",
    "part": "left_wing", 
-  "attach": false,
+  "attach": attach,
    "translate": [ 4.0, 6.0, -3.0], 
    "rotate": [0, 0, 0]
   },
   {
-  
+  "id": "rwing",
    "model": "chicken_wing_right",
    "part": "right_wing", 
-  "attach": false,
+  "attach": attach,
    "translate": [ 12.0, 6.0, -3.0], 
    "rotate": [0, 0, 0]
   }
