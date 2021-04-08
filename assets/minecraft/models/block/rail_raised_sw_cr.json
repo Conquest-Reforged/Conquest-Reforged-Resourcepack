@@ -1,6 +1,0 @@
-{
-  "parent": "block/template_rail_raised_sw_cr",
-  "textures": {
-    "rail": "block/rail"
-  }
-}

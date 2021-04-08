@@ -1,9 +1,0 @@
-{
-    "parent": "block/beehive",
-    "textures": {
-       	"0": "block/beehive_side",
-		"1": "block/beehive_end",
-		"2": "block/beehive_front_honey",
-		"particle": "block/beehive_side"
-    }
-}
