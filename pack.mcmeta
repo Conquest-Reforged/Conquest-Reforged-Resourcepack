@@ -2,6 +2,6 @@
   "pack": {
     "pack_format": 6,
     "pack_id": "conquest_reforged",
-    "description": "current V1 - Optifine for better textures"
+    "description": "Requires Optifine and the Conquest Reforged Mod"
   }
 }
