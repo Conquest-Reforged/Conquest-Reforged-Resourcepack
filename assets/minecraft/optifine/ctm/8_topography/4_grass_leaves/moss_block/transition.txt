@@ -1,0 +1,6 @@
+matchTiles=minecraft:moss_block
+tiles=19 20
+method=random
+minHeight=50
+maxHeight=59
+biomes=minecraft:ocean minecraft:deep_ocean minecraft:frozen_ocean minecraft:deep_frozen_ocean minecraft:cold_ocean minecraft:deep_cold_ocean minecraft:river minecraft:frozen_river minecraft:beach minecraft:stony_shore minecraft:snowy_beach minecraft:forest minecraft:flower_forest minecraft:birch_forest minecraft:old_growth_birch_forest minecraft:dark_forest minecraft:jungle minecraft:sparse_jungle minecraft:taiga minecraft:snowy_taiga minecraft:old_growth_pine_taiga minecraft:old_growth_spruce_taiga minecraft:savanna minecraft:savanna_plateau minecraft:windswept_savanna minecraft:plains minecraft:sunflower_plains minecraft:snowy_plains minecraft:snowy_slopes minecraft:ice_spikes minecraft:windswept_hills minecraft:badlands minecraft:wooded_badlands minecraft:eroded_badlands minecraft:dripstone_caves minecraft:lush_caves minecraft:nether_wastes minecraft:crimson_forest minecraft:warped_forest minecraft:soul_sand_valley minecraft:basalt_deltas minecraft:the_end minecraft:small_end_islands minecraft:end_midlands minecraft:end_highlands minecraft:end_barrens minecraft:the_void
