@@ -1,7 +1,7 @@
 {
  "comment": "Designed by Monsterfish_ with Cubik Studio - https://cubik.studio",
  "createdWith": "Cubik Studio 2.8.438 Beta",
- "texture": "textures/entity/iron_golem",
+ "texture": "textures/entity/iron_golem/iron_golem",
  "textureSize": [512,512],
  "submodels": [
   {

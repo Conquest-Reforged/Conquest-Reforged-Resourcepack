@@ -1,24 +1,22 @@
 {
- "comment": "Designed by Monsterfish_ with Cubik Studio - https://cubik.studio",
- "createdWith": "Cubik Studio 2.9.480 Beta",
-  "folder/texture": "textures/entity/chicken.png",
- "textureSize": [256,128],
- "submodels": [
-  {
-   "id": "e0_Box4",
-   "translate": [-11.15625,-0.8125,0.8125],
-   "rotate": [0.0,90.0,0.0],
-   "boxes": [
-    {
-     "coordinates": [-5.875,-4.84375,0.0,5.875,4.84375,1.28125],
-     "uvDown": [124,180,128,204],
-     "uvUp": [120,180,124,204],
-     "uvNorth": [96,204,120,220],
-     "uvSouth": [128,204,152,220],
-     "uvWest": [120,204,124,220],
-     "uvEast": [148,204,152,220]
-    }
-   ]
-  }
- ]
+	"texture": "textures/entity/chicken.png",
+	"textureSize": [64, 32],
+	"credit": "Made with Blockbench",
+	"submodels": [
+		{
+			"id": "e0_Box4",
+			"rotate": [0, 90, 0],
+			"boxes": [
+				{
+					"coordinates": [-6.6875, -5.65625, -11.15625, 5.875, 4.84375, 1.28125],
+					"uvNorth": [26, 19, 31, 23],
+					"uvEast": [25, 19, 26, 23],
+					"uvSouth": [32, 19, 37, 23],
+					"uvWest": [31, 19, 32, 23],
+					"uvUp": [31, 20, 27, 19],
+					"uvDown": [37, 18, 32, 19]
+				}
+			]
+		}
+	]
 }

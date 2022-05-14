@@ -8,7 +8,7 @@
   "attach": true,
    "translate": [ -2.85, 3.1, -15.0],
    "rotate": [20, 20, 137.5]
-  };
+  },
   {
    "model": "iron_golem_head.jpm",
    "part": "head", 

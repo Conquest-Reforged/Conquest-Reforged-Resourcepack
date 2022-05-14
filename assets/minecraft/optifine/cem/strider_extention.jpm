@@ -1,0 +1,25 @@
+{
+	"texture": "textures/entity/strider/strider",
+	"textureSize": [64, 128],
+	"credit": "Made with Blockbench",
+	"boxes": [
+		{
+			"coordinates": [-17, 8, -1, 18, 11, 18],
+			"uvNorth": [14, 114, 33, 128],
+			"uvEast": [0, 114, 18, 128],
+			"uvSouth": [46, 114, 64, 128],
+			"uvWest": [30, 114, 49, 128],
+			"uvUp": [36, 102, 21, 88],
+			"uvDown": [52, 87, 37, 103]
+		},
+		{
+			"coordinates": [-14, -7, 2, 12, 2, 12],
+			"uvNorth": [12, 105, 24, 108],
+			"uvEast": [0, 105, 12, 108],
+			"uvSouth": [36, 105, 48, 108],
+			"uvWest": [24, 105, 36, 108],
+			"uvUp": [16, 100, 6, 90],
+			"uvDown": [53, 87, 43, 101]
+		}
+	]
+}

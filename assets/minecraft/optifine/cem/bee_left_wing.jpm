@@ -1,0 +1,16 @@
+{
+	"texture": "textures/entity/bee/bee",
+	"textureSize": [64, 64],
+	"credit": "Made with Blockbench",
+	"boxes": [
+		{
+			"coordinates": [1.25, -7, -1.5, 9, 0, 6.5],
+			"uvNorth": [14, 64, 32, 64],
+			"uvEast": [1, 64, 14, 64],
+			"uvSouth": [45, 64, 63, 64],
+			"uvWest": [32, 64, 45, 64],
+			"uvUp": [32, 64, 14, 51],
+			"uvDown": [50, 51, 32, 64]
+		}
+	]
+}
