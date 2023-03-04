@@ -1,0 +1,86 @@
+{
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "block/acacia_planks",
+		"texture": "block/acacia_planks"
+	},
+	"elements": [
+		{
+			"name": "PlaneX1",
+			"from": [-10, -2, 21.2498],
+			"to": [22, 30, 21.2518],
+			"shade": false,
+			"rotation": {"angle": -45, "axis": "y", "origin": [22, -2, 21.25]},
+			"faces": {
+				"north": {"uv": [1, 0, 16, 16], "texture": "#texture"},
+				"south": {"uv": [0, 0, 15, 16], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "PlaneX1",
+			"from": [3.9982, -2, -4.75],
+			"to": [4.0002, 30, 27.25],
+			"shade": false,
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [4, -2, 27.25]},
+			"faces": {
+				"east": {"uv": [1, 0, 16, 16], "texture": "#texture"},
+				"west": {"uv": [0, 0, 15, 16], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "PlaneX1",
+			"from": [-8, -2, 6.2498],
+			"to": [24, 30, 6.2518],
+			"shade": false,
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [24, -2, 6.25]},
+			"faces": {
+				"north": {"uv": [1, 0, 16, 16], "texture": "#texture"},
+				"south": {"uv": [0, 0, 15, 16], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "PlaneX1",
+			"from": [23, -2, -6.25],
+			"to": [23.002, 30, 25.75],
+			"shade": false,
+			"rotation": {"angle": -45, "axis": "y", "origin": [23, -2, -6.25]},
+			"faces": {
+				"east": {"uv": [0, 0, 15, 16], "texture": "#texture"},
+				"west": {"uv": [1, 0, 16, 16], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "PlaneX1",
+			"from": [22.998, -2, -16],
+			"to": [23, 30, 16],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [23, -2, 14.75]},
+			"faces": {
+				"east": {"uv": [16, 0, 1, 16], "texture": "#texture"},
+				"west": {"uv": [15, 0, 0, 16], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "PlaneX1",
+			"from": [12, -12, -1],
+			"to": [12.002, 20, 31],
+			"shade": false,
+			"rotation": {"angle": -45, "axis": "y", "origin": [12, -12, -1]},
+			"faces": {
+				"east": {"uv": [15, 0, 0, 16], "texture": "#texture"},
+				"west": {"uv": [16, 0, 1, 16], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "PlaneX1",
+			"from": [13.998, -12, -12],
+			"to": [14, 20, 20],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [14, -12, 20]},
+			"faces": {
+				"east": {"uv": [1, 0, 16, 16], "texture": "#texture"},
+				"west": {"uv": [0, 0, 15, 16], "texture": "#texture"}
+			}
+		}
+	]
+}

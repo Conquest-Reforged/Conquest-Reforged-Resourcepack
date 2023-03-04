@@ -1,0 +1,50 @@
+{
+	"blend": {
+		"type": "multiply"
+	},
+	"conditions": {
+		"weather": [
+			"clear"
+		],
+		"worlds": [
+			"minecraft:overworld"
+		]
+	},
+	"decorations": {
+		"showMoon": true,
+		"showStars": false,
+		"showSun": true
+	},
+	"properties": {
+		"fade": {
+			"endFadeIn": 13833,
+			"endFadeOut": 22667,
+			"startFadeIn": 13500,
+			"startFadeOut": 22334
+		},
+		"rotation": {
+			"axis": [
+				0.0,
+				90.0,
+				0.0
+			],
+			"rotationSpeed": 0.5,
+			"static": [
+				0.0,
+				0.0,
+				0.0
+			]
+		},
+		"shouldRotate": true
+	},
+	"schemaVersion": 2,
+	"textures": {
+		"bottom": "fabricskyboxes:sky/sky_cloud_star_bottom.png",
+		"east": "fabricskyboxes:sky/sky_cloud_star_east.png",
+		"north": "fabricskyboxes:sky/sky_cloud_star_north.png",
+		"south": "fabricskyboxes:sky/sky_cloud_star_south.png",
+		"top": "fabricskyboxes:sky/sky_cloud_star_top.png",
+		"west": "fabricskyboxes:sky/sky_cloud_star_west.png"
+	},
+	"type": "square-textured"
+}

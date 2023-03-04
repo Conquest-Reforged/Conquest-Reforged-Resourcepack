@@ -1,0 +1,31 @@
+{
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "block/acacia_planks",
+		"texture": "block/acacia_planks"
+	},
+	"elements": [
+		{
+			"name": "PlaneX1",
+			"from": [-3, -2, -3],
+			"to": [-2.999, 30, 29],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [-3, -2.25, -3]},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#texture"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "PlaneX1",
+			"from": [19, -2, -3],
+			"to": [19.001, 30, 29],
+			"shade": false,
+			"rotation": {"angle": -45, "axis": "y", "origin": [19, -2.25, -3]},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#texture"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#texture"}
+			}
+		}
+	]
+}

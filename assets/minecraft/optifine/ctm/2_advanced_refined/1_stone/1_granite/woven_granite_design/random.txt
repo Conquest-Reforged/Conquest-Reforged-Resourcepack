@@ -1,3 +1,0 @@
-tiles=27 49-51
-method=random
-matchTiles=./27.png
