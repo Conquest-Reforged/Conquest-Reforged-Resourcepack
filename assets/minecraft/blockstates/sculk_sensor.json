@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "sculk_sensor_phase=active": [
+      {"model": "minecraft:block/sculk_sensor_active"},
+      {"model": "minecraft:block/sculk_sensor_active", "y": 90},
+      {"model": "minecraft:block/sculk_sensor_active", "y": 180},
+      {"model": "minecraft:block/sculk_sensor_active", "y": 270}
+  ],
+    "sculk_sensor_phase=cooldown": [
+      {"model": "minecraft:block/sculk_sensor_inactive"},
+      {"model": "minecraft:block/sculk_sensor_inactive", "y": 90},
+      {"model": "minecraft:block/sculk_sensor_inactive", "y": 180},
+      {"model": "minecraft:block/sculk_sensor_inactive", "y": 270}
+  ],
+    "sculk_sensor_phase=inactive": [
+      {"model": "minecraft:block/sculk_sensor_inactive"},
+      {"model": "minecraft:block/sculk_sensor_inactive", "y": 90},
+      {"model": "minecraft:block/sculk_sensor_inactive", "y": 180},
+      {"model": "minecraft:block/sculk_sensor_inactive", "y": 270}
+  ]
+  }
+}
