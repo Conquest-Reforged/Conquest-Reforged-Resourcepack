@@ -52,4 +52,5 @@ jobs:
           version-type: release
           changelog-file: CHANGELOG.md
 
+          loaders: Minecraft
           game-versions: "${{env.MINECRAFT_VERSION}}"
