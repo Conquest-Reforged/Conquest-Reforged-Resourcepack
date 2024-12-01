@@ -38,6 +38,12 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
 
+          curseforge-id: 250080
+          curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
+
+          modrinth-id: td2vmZqO
+          modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+
           files: |
             *.zip
 
