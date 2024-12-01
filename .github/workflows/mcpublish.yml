@@ -39,7 +39,7 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
 
           files: |
-            "${{env.RELEASE_NAME}}.zip"
+            CRRP.zip
 
           name: "${{env.RELEASE_NAME}}"
           version: "${{env.VERSION}}"
