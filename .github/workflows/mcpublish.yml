@@ -30,7 +30,7 @@ jobs:
         uses: vimtor/action-zip@v1
         with:
           files: assets/ pack.mcmeta pack.png
-          dest: "${{env.RELEASE_NAME}}".zip
+          dest: "${{env.RELEASE_NAME}}.zip"
           recursive: false
 
       - name: Publish (CurseForge/Modrinth/GitHub)
