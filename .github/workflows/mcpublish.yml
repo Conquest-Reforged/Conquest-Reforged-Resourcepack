@@ -39,7 +39,7 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
 
           files: |
-            /*.zip
+            *.zip
 
           name: "${{env.RELEASE_NAME}}"
           version: "${{env.VERSION}}"
